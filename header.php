@@ -53,7 +53,7 @@
         </div>
         <div class="col-12 col-sm-6 col-lg-auto pt-3 pt-sm-0 d-flex flex-column justify-content-center align-items-center align-content-sm-start">
             <h3 class="heading-3">20-21 CZERWCA 2020</h3>
-            <small>Pozostało <b>- dni - godzin - minuty</b></small>
+            <small>Pozostało <b id="counter"></b></small>
         </div>
         <div class="col-12 col-lg pt-3 pt-md-0">
             <div class="row d-flex justify-content-end">
