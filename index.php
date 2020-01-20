@@ -15,7 +15,7 @@
             </a>
         </div>
         <div class="col-12 col-md-4">
-            <a href="o-targach.php" class="item">
+            <a href="plan-targow.php" class="item">
                 <div class="thumb">
                     <?php include('./src/assets/img/_update/ico/plan_imprezy.svg') ?>
                 </div>
