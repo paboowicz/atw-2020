@@ -15,9 +15,9 @@
                 <h1 class="heading-1 p-3">Agro Targi Wschód </h1>
 
                 <p>Agro Targi Wschód to cykliczne wydarzenie, którego celem jest promowanie polskich producentów
-                    żywności, hodowli, maszyn i urządzeń rolniczych. Promowanie Produktu Polskiego- zgodnie ze
+                    żywności, hodowli, maszyn i urządzeń rolniczych. <u>Promowanie Produktu Polskiego- zgodnie ze
                     stwierdzeniem Pana Jana Krzysztofa Ardanowskiego, Ministra Rolnictwa i Rozwoju Wsi jest najlepiej
-                    rozumianym patriotyzmem gospodarczym. Misją targów jest również promowanie dorobku gospodarczego,
+                    rozumianym patriotyzmem gospodarczym</u>. Misją targów jest również promowanie dorobku gospodarczego,
                     rolniczego i dziedzictwa kulturowego regionu podkarpacia.</p>
 
                 <p>III Agro Targi Wschód w ubiegłym roku odwiedziło kilkadziesiąt tysięcy osób i wystawiło się ok.150
