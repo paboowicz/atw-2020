@@ -94,7 +94,7 @@
 
             <div class="row">
                 <div class="aside-small-header">
-                    <h5 class="text-right">Partnerzy</h5>
+                    <h6 class="text-right">Partnerzy</h6>
                     <hr>
                 </div>
             </div>
@@ -129,7 +129,7 @@
             <!-- <h3></h3> -->
             <div class="row">
                 <div class="aside-small-header">
-                    <h5 class="text-right">Patronat</h5>
+                    <h6 class="text-right">Patronat</h6>
                     <hr>
                 </div>
             </div>
@@ -174,7 +174,7 @@
             <!-- <h3> </h3> -->
             <div class="row">
                 <div class="aside-small-header">
-                    <h5 class="text-right">Patronat Medialny</h5>
+                    <h6 class="text-right">Patronat Medialny</h6>
                     <hr>
                 </div>
             </div>
