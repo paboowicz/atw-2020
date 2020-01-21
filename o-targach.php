@@ -46,8 +46,7 @@
             <small class="font-italic">Stanisław Sawa (drugi z lewej) przed ukraińskim wystawcą. Pierwszy z prawej - Wiktor Szeremeta, wiceminister rolnictwa Ukrainy</small>
         </div>
         <div class="col-12 d-flex justify-content-center mt-5 mb-5 pt-5 pb-5">
-            <h3 class="heading-3 w-50 text-center">Tegoroczne, czwarte Agro Targi Wschód organizowane w czerwcu br
-                zapowiadają się z jeszcze większym rozmachem.</h3>
+            <h3 class="heading-3 w-50 text-center">Tegoroczne, czwarte Agro Targi Wschód organizowane w czerwcu 2020 roku zapowiadają się z jeszcze większym rozmachem.</h3>
         </div>
     </div>
 
