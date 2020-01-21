@@ -118,7 +118,7 @@
             <div class="col-12 no-padding">
                 <div class="text-box">
                     <h5>Gastronomia:</h5>
-                    <p>Przedstawicieli firm gastronomicznych, catering, sprzedaż piwa ( w tym regionalnego), napoi, lodów prosimy o bezpośredni kontakt z organizatorem Agro Targów Wschód pod adresem e-mailowym: biuro@agrotargiwschod.pl lub nr telefonu 606 418 785 lub 604 750 443 przed wypełnieniem zgłoszenia.
+                    <p>Przedstawicieli firm gastronomicznych, catering, sprzedaż piwa ( w tym regionalnego), napojów, lodów prosimy o bezpośredni kontakt z organizatorem Agro Targów Wschód pod adresem e-mailowym: biuro@agrotargiwschod.pl lub nr telefonu 606 418 785 lub 604 750 443 przed wypełnieniem zgłoszenia.
                     </p>
                 </div>
             </div>
@@ -168,12 +168,32 @@
                     </tr>
                 </table>
                 <p>*podane kwoty są cenami netto</p>
-                <span><a href="./src/assets/pdf/20190911/CENNIK-REKLAM.pdf">pobierz cennik
+                <!--<span><a href="./src/assets/pdf/20190911/CENNIK-REKLAM.pdf">pobierz cennik
                     <img src="./src/assets/img/pdficon.png">
-                    </a></span>
+                    </a></span>-->
             </div>
+			
         </div>
     </div><br>
+	<div class="container">
+        <div class="row d-flex justify-content-center">
+            <div class="col-12 no-padding">
+                <div class="text-box">
+                    <ul>
+                        
+                        <li class="dllink">
+                            <a target="_blank" href="./src/assets/pdf/20190911/CENNIK-REKLAM.pdf">Pobierz cennik
+                                <img src="./src/assets/img/pdficon.png">
+                            </a>
+                        </li>
+                       
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+	
 
 
 
