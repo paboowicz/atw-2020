@@ -124,6 +124,9 @@
                             <li>
                                 <a href="plan-targow.php">PLAN</a>
                             </li>
+							<li>
+                                <a href="wystawcy.php">WYSTAWCY</a>
+                            </li>
                             <li>
                                 <a href="kontakt.php">DOJAZD</a>
                             </li>
