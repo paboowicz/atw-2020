@@ -65,7 +65,7 @@
                             </a>
                         </li> -->
                         <li class="dllink">
-                            <a target="_blank" href="./src/assets/pdf/20200116/umowa-handel-drobny-30-zł-20-01-2020.pdf">Umowa dla handlu drobnego
+                            <a target="_blank" href="./src/assets/pdf/20200116/umowa-handel-drobny-30-zl-20-01-2020.pdf">Umowa dla handlu drobnego
                                 <img src="./src/assets/img/pdficon.png">
                             </a>
                         </li>
