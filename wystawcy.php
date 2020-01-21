@@ -1,7 +1,7 @@
 <?php require_once('header.php') ?>
 
 
-<?php require_once('slider.php') ?>
+<!--<?php require_once('slider.php') ?>  -->
     
     	
 <section id="sponsors" class="sponsors_3 section-padding  secondary-bg sponsors-index">
