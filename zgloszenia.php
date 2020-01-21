@@ -118,7 +118,7 @@
             <div class="col-12 no-padding">
                 <div class="text-box">
                     <h5>Gastronomia:</h5>
-                    <p>Przedstawicieli firm gastronomicznych (catering/ sprzedaż piwa) prosimy o bezpośredni kontakt z organizatorem Agro Targów Wschód pod adresem e-mailowym: biuro@agrotargiwschod.pl lub nr telefonu 606 418 785 lub 604 750 443
+                    <p>Przedstawicieli firm gastronomicznych, catering, sprzedaż piwa ( w tym regionalnego), napoi, lodów prosimy o bezpośredni kontakt z organizatorem Agro Targów Wschód pod adresem e-mailowym: biuro@agrotargiwschod.pl lub nr telefonu 606 418 785 lub 604 750 443 przed wypełnieniem zgłoszenia.
                     </p>
                 </div>
             </div>
