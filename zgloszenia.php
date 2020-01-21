@@ -2,14 +2,12 @@
 <?php require_once('header.php') ?>
 
 
-<?php require_once('slider.php') ?>
-
 
 
 <div class="forExhibitors-application application-index">
     <!-- <div class="container">
     <div class="row">
-        <div class="col-xs-12 col-md-4 no-padding">
+        <div class="col-12 col-md-4 no-padding">
            <div class="info-banner">
                 <a target="_blank" href="./src/assets/pdf/20190911/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy dla wystawców
 
@@ -18,7 +16,7 @@
             </div>
 
         </div>
-        <div class="col-xs-12 col-md-8 no-padding">
+        <div class="col-12 col-md-8 no-padding">
             <div class="info-banner">
                 <img class="icon" src="//src/src/assets/img/ZGLOSZENIA.png" alt="">
                 <h4>Formularze zgłoszeniowe na IV edycję Agro Targi Wschód 2020 są dostępne w wersji elektronicznej. Uprzejmie prosimy o przesłanie wypełnionego formularza  zgłoszeniowego         w formie papierowej na adres: P.P.H.U. Sawa Expo Stanisław Sawa, Nowosiółki 79, 22-652 Telatyn i elektronicznej na adres e-mail: biuro@agrotargiwschod.pl. </h4>
@@ -31,9 +29,9 @@
 
     <div class="container">
         <div class="row d-flex justify-content-center">
-            <div class="col-xs-12 no-padding">
+            <div class="col-12 no-padding">
                 <div class="text-box">
-                    <h3>Formularz dla wystawców:</h3><br> <ul>
+                    <h5>Formularz dla wystawców:</h5><br> <ul>
 
                         <li class="dllink">
                             <a target="_blank" href="./src/assets/pdf/20200116/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy IV Agro Targi Wschód
@@ -56,9 +54,9 @@
 
     <div class="container">
         <div class="row d-flex justify-content-center">
-            <div class="col-xs-12 no-padding">
+            <div class="col-12 no-padding">
                 <div class="text-box">
-                    <h3>Formularz dla handlu:</h3><br>
+                    <h5>Formularz dla handlu:</h5><br>
                     <p>Uczestników Targów prowadzących działalność handlową i inną nie wystawienniczą prosimy o wypełnienie i przesłanie niniejszej umowy:</p><br>
                     <ul>
                         <!--  <li class="dllink">
@@ -85,7 +83,7 @@
 
     <div class="container">
         <div class="row d-flex justify-content-center">
-            <div class="col-xs-12 no-padding">
+            <div class="col-12 no-padding">
                 <div class="text-box">
                     <p>Wystawca może wziąć udział w Targach, jeżeli spełni następujące warunki łącznie:</p>
                     <ul>
@@ -117,9 +115,9 @@
 
     <div class="container">
         <div class="row d-flex justify-content-center">
-            <div class="col-xs-12 no-padding">
+            <div class="col-12 no-padding">
                 <div class="text-box">
-                    <h3>Gastronomia:</h3>
+                    <h5>Gastronomia:</h5>
                     <p>Przedstawicieli firm gastronomicznych (catering/ sprzedaż piwa) prosimy o bezpośredni kontakt z organizatorem Agro Targów Wschód pod adresem e-mailowym: biuro@agrotargiwschod.pl lub nr telefonu 606 418 785 lub 604 750 443
                     </p>
                 </div>
@@ -128,9 +126,9 @@
     </div>
 
     <div class="container">
-        <div class="row d-flex justify-content-center">
-            <div class="col-xs-12 no-padding" style="text-align: center">
-                <h3>reklamy</h3>
+        <div class="row">
+            <div class="col-12 no-padding">
+                <h5>Reklamy</h5>
                 <table>
                     <tr>
                         <td>Typ reklamy</td>
@@ -202,7 +200,7 @@
 
     <!--         <div class="container">
                 <div class="row">
-                    <div class="col-xs-12 no-padding">
+                    <div class="col-12 no-padding">
                         <div class="text-box">
                             <h3>Gastronomia</h3><br>
                             <p>Przedstawicieli firm gastronomicznych (catering / sprzedaż piwa) prosimy o bezpośredni kontakt z Dyrektorem Targów.
@@ -214,14 +212,14 @@
 
     <div class="container">
         <div class="row d-flex justify-content-center">
-            <!-- <div class="col-xs-12 no-padding">
+            <!-- <div class="col-12 no-padding">
                 <div class="see-more">
                     <span>zobacz również</span>
                 </div>
             </div> -->
         </div>
         <div class="row d-flex justify-content-center">
-            <!-- <div class="col-xs-12 col-md-4 no-padding">
+            <!-- <div class="col-12 col-md-4 no-padding">
                 <div class="info-banner">
                     <img class="icon" src="//src/src/assets/img/DOJAZD.png" alt="">
                     <h4>Dojazd i hotele</h4>
@@ -229,7 +227,7 @@
                     <a href="for-exhibitors-drive.html" class="">czytaj</a>
                 </div>
             </div>
-            <div class="col-xs-12 col-md-6 no-padding">
+            <div class="col-12 col-md-6 no-padding">
                 <div class="info-banner">
                     <img class="icon" src="//src/src/assets/img/xyz.png" alt="">
                     <h4>Reklama</h4>
@@ -237,7 +235,7 @@
                     <a href="for-exhibitors-comm.html" class="">czytaj</a>
                 </div>
             </div>-->
-            <div class="col-xs-12 col-md-offset-3 no-padding">
+            <div class="col-12 col-md-offset-3 no-padding">
                 <!--  <div class="info-banner">
                     <img class="icon" src="//src/src/assets/img/REGULAMIN.png" alt="">
                     <h4>Regulamin</h4>

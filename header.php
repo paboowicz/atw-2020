@@ -52,24 +52,24 @@
             <a href="index.php"><img src="./src/assets/img/logo.png" alt="Logo"></a>
         </div>
         <div class="col-12 col-sm-6 col-lg-auto pt-3 pt-sm-0 d-flex flex-column justify-content-center align-items-center align-content-sm-start">
-            <h3 class="heading-3">20-21 CZERWCA 2020</h3>
+            <h3 class="heading-3">20-21 CZERWCA 2020 <br> SKOŁOSZÓW </h3>
             <small>Pozostało <b id="counter"></b></small>
         </div>
         <div class="col-12 col-lg pt-3 pt-md-0">
             <div class="row d-flex justify-content-end">
                 <div class="col-md-6 col-lg-12 col-xl-auto d-flex align-items-center justify-content-end">
                     <small class="mr-3">ORGANIZATOR:</small>
-                    <img src="./src/assets/img/_update/pig_logo.png" alt="polska izba gospodarcza">
+                    <img src="./src/assets/img/_update/organizator.png" alt="polska izba gospodarcza">
                 </div>
                 <div class="col-6 col-md-auto d-flex align-items-center justify-content-end">
-                    <small class="mr-3">Język</small>
-                    <select name="lang" id="lang-select" class="form-control form-control-sm my-select">
-                        <option value="pl">PL</option>
-                        <option value="en">EN</option>
-                    </select>
+<!--                    <small class="mr-3">Język</small>-->
+<!--                    <select name="lang" id="lang-select" class="form-control form-control-sm my-select">-->
+<!--                        <option value="pl">PL</option>-->
+<!--                        <option value="en">EN</option>-->
+<!--                    </select>-->
                 </div>
                 <div class="col-6 col-md-auto d-flex align-items-center">
-                    <a href="#" class="icon-circle mr-2"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.facebook.com/AgroTargiWschod/?__tn__=%2Cd%2CP-R&eid=ARC_RXuBDsG7KzKjpj9d5NPMAGP9aTFAf4WSyviW8V9m9cIbg6o2vVxIt-dhyi6apu_4cpJrcXKVOCDy" target="_blank" class="icon-circle mr-2"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.youtube.com/channel/UCuCU9C1ozVR60ASLK4T1vjw/featured" target="_blank" class="icon-circle"><i class="fab fa-youtube"></i></a>
                 </div>
             </div>
@@ -106,32 +106,26 @@
                     <li><span>O wystawie <i class="fa fa-chevron-down ml-3"></i></span>
                         <ul>
                             <li>
-                                <a href="index.php">Index</a>
+                                <a href="o-targach.php">O TARGACH</a>
                             </li>
                             <li>
-                                <a href="wystawcy.php">Wystawcy</a>
-                            </li>
-                            <li>
-                                <a href="aktualnosci.php">Aktualnosci</a>
+                                <a href="galeria.php">GALERIA</a>
                             </li>
                         </ul>
                     </li>
-                    <li><span>Dla zwiedzających <i class="fa fa-chevron-down ml-3"></i></span>
+                    <li><span>Dla wystawców <i class="fa fa-chevron-down ml-3"></i></span>
                         <ul>
                             <li>
-                                <a href="galeria.php">Galeria</a>
+                                <a href="zgloszenia.php">ZGŁOSZENIE</a>
                             </li>
                             <li>
-                                <a href="kontakt.php">Kontakt</a>
+                                <a href="regulamin.php">REGULAMIN</a>
                             </li>
                             <li>
-                                <a href="o-targach.php">O targach</a>
+                                <a href="plan-targow.php">PLAN</a>
                             </li>
                             <li>
-                                <a href="zgloszenia.php">Zgłoszenia</a>
-                            </li>
-                            <li>
-                                <a href="regulamin.php">Regulamin</a>
+                                <a href="kontakt.php">DOJAZD</a>
                             </li>
                         </ul>
                     </li>

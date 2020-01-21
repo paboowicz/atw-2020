@@ -1,33 +1,31 @@
 <?php require_once('header.php') ?>
 
 
-<?php require_once('slider.php') ?>
-
 
 
 <div class="forExhibitors-regulations rule-index">
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-12">
-                <h3 style="text-align: center;">REGULAMIN AGRO TARGÓW WSCHÓD:</h3><br>
+                <h5>REGULAMIN AGRO TARGÓW WSCHÓD:</h5><br>
             </div>
-            <div class="col-xs-12 no-padding">
+            <div class="col-12 no-padding">
 
 
                 <ul>
                     <li class="dllink">
-                        <a target="_blank" href="./src/assets/pdf/20200116/REGULAMIN.pdf"><h3> Regulamin targów
-                                <img src="./src/assets/img/pdficon.png"></h3>
+                        <a target="_blank" href="./src/assets/pdf/20200116/REGULAMIN.pdf"><span> Regulamin targów
+                                <img src="./src/assets/img/pdficon.png"></span>
                         </a>
                     </li>
                     <li class="dllink">
-                        <a target="_blank" href="./src/assets/pdf/20200116/REGULAMIN-POKAZOW-MASZYN.pdf"><h3>Regulamin pokazów maszyn
-                                <img src="./src/assets/img/pdficon.png"></h3>
+                        <a target="_blank" href="./src/assets/pdf/20200116/REGULAMIN-POKAZOW-MASZYN.pdf"><span>Regulamin pokazów maszyn
+                                <img src="./src/assets/img/pdficon.png"></span>
                         </a>
                     </li>
                     <li class="dllink">
-                        <a target="_blank" href="./src/assets/pdf/20200116/REGULAMIN-DLA-HANDLU-DROBNEGO.pdf"><h3>Regulamin dla handlu drobnego
-                                <img src="./src/assets/img/pdficon.png"></h3>
+                        <a target="_blank" href="./src/assets/pdf/20200116/REGULAMIN-DLA-HANDLU-DROBNEGO.pdf"><span>Regulamin dla handlu drobnego
+                                <img src="./src/assets/img/pdficon.png"></span>
                         </a>
                     </li>
                     <!-- <li class="dllink">
