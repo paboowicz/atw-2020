@@ -8,7 +8,7 @@
     <div class="row mb-5">
         <div class="col-lg-6 d-flex flex-column align-items-center">
             <img src="./src/assets/img/1.jpg" alt="img" class="img-fluid w-75">
-            <small class="font-italic"></small>
+            <small class="font-italic">Spotkanie przedstawiciela Agro Targów Wschód z prezydentem DLG. Hannover, listopad 2017</small>
         </div>
         <div class="col-lg-6">
             <div class="item">
