@@ -34,7 +34,7 @@
                     <h5>Formularz dla wystawców:</h5><br> <ul>
 
                         <li class="dllink">
-                            <a target="_blank" href="./src/assets/pdf/20200116/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy IV Agro Targi Wschód
+                            <a target="_blank" href="./src/assets/pdf/20200116/formularz-zgloszeniowy-2020.pdf">Formularz zgłoszeniowy IV Agro Targi Wschód
                                 <img src="./src/assets/img/pdficon.png">
                             </a>
                         </li>
@@ -182,7 +182,7 @@
                     <ul>
                         
                         <li class="dllink">
-                            <a target="_blank" href="./src/assets/pdf/20190911/CENNIK-REKLAM.pdf">Pobierz cennik
+                            <a target="_blank" href="./src/assets/pdf/20190911/cennik-reklam.pdf">Pobierz cennik
                                 <img src="./src/assets/img/pdficon.png">
                             </a>
                         </li>

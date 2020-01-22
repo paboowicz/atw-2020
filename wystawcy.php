@@ -42,7 +42,7 @@
 	        	           		</li> 
 	        	           		<li>
 	        	           			<a href="https://www.targikielce.pl/">
-	        	           				<img src="./src/assets/img/sponsorzy/mini/TargiKielce.png" alt="sponsors"/>
+	        	           				<img src="./src/assets/img/sponsorzy/mini/targikielce250.png" alt="sponsors"/>
 	        	           			</a>	
 	        	           		</li>
 	        	           		<li>
@@ -82,7 +82,7 @@
 	        	           		</li>  
 								<li>
 	        	           			<a href="http://www.sggw.pl/">
-	        	           				<img src="./src/assets/img/sponsorzy/mini/SGGW-300.png" alt="sponsors"/>
+	        	           				<img src="./src/assets/img/sponsorzy/mini/sggw-300.png" alt="sponsors"/>
 	        	           			</a>
 	        	           		</li>
 	        	           		<li>
@@ -138,7 +138,7 @@
 				<li><img src="./src/assets/img/sponsorzy/mini/evergreen250.png" alt="sponsors"/></li>
 				<li><img src="./src/assets/img/sponsorzy/mini/impresja250.png" alt="sponsors"/></li>
 				<li><img src="./src/assets/img/sponsorzy/mini/mpmprojekt250.png" alt="sponsors"/></li>
-				<li><img src="./src/assets/img/sponsorzy/mini/Orcal250.png" alt="sponsors"/></li>
+				<li><img src="./src/assets/img/sponsorzy/mini/orcal250.png" alt="sponsors"/></li>
 				<li><img src="./src/assets/img/sponsorzy/mini/sadmasz250.png" alt="sponsors"/></li>
 				<li><img src="./src/assets/img/sponsorzy/mini/studiozieleni250.png" alt="sponsors"/></li>
 				<li><img src="./src/assets/img/sponsorzy/mini/agromarek250.png" alt="sponsors"/></li>
