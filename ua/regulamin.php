@@ -15,17 +15,17 @@
                 <ul>
                     <li class="dllink">
                         <a target="_blank" href="./src/assets/pdf/20200120/regulamin.pdf"><span> Regulamin targów
-                                <img src="./src/assets/img/pdficon.png"></span>
+                                <img src="../src/assets/img/pdficon.png"></span>
                         </a>
                     </li>
                     <li class="dllink">
                         <a target="_blank" href="./src/assets/pdf/20200116/regulamin-pokazow-maszyn.pdf"><span>Regulamin pokazów maszyn
-                                <img src="./src/assets/img/pdficon.png"></span>
+                                <img src="../src/assets/img/pdficon.png"></span>
                         </a>
                     </li>
                     <li class="dllink">
                         <a target="_blank" href="./src/assets/pdf/20200116/regulamin-dla-handlu-drobnego.pdf"><span>Regulamin dla handlu drobnego
-                                <img src="./src/assets/img/pdficon.png"></span>
+                                <img src="../src/assets/img/pdficon.png"></span>
                         </a>
                     </li>
                     <!-- <li class="dllink">

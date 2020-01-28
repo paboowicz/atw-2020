@@ -52,21 +52,21 @@
             <a href="index.php"><img src="../src/assets/img/logo.png" alt="Logo"></a>
         </div>
         <div class="col-12 col-sm-6 col-lg-auto pt-3 pt-sm-0 d-flex flex-column justify-content-center align-items-center align-content-sm-start">
-            <h3 class="heading-3">20-21 CZERWCA 2020 <br> SKOŁOSZÓW </h3>
-            <small>Pozostało <b id="counter"></b></small>
+            <h3 class="heading-3">20-21 червня 2020  <br> Сколошув </h3>
+            <small>Залишилось <b id="counter"></b></small>
         </div>
         <div class="col-12 col-lg pt-3 pt-md-0">
             <div class="row d-flex justify-content-end">
                 <div class="col-md-6 col-lg-12 col-xl-auto d-flex align-items-center justify-content-end">
-                    <small class="mr-3">ORGANIZATOR:</small>
+                    <small class="mr-3">Організатор:</small>
                     <img src="../src/assets/img/_update/organizator.png" alt="polska izba gospodarcza">
                 </div>
                 <div class="col-6 col-md-auto d-flex align-items-center justify-content-end">
-<!--                    <small class="mr-3">Język</small>-->
-<!--                    <select name="lang" id="lang-select" class="form-control form-control-sm my-select">-->
-<!--                        <option value="pl">PL</option>-->
-<!--                        <option value="en">EN</option>-->
-<!--                    </select>-->
+                   <!-- <small class="mr-3">Język</small> -->
+                    <select name="lang" id="lang-select" class="form-control form-control-sm my-select">
+                        <option value="pl">PL</option>
+                        <option value="ua">UA</option>
+                    </select>
                 </div>
                 <div class="col-6 col-md-auto d-flex align-items-center">
                     <a href="https://www.facebook.com/AgroTargiWschod/?__tn__=%2Cd%2CP-R&eid=ARC_RXuBDsG7KzKjpj9d5NPMAGP9aTFAf4WSyviW8V9m9cIbg6o2vVxIt-dhyi6apu_4cpJrcXKVOCDy" target="_blank" class="icon-circle mr-2"><i class="fab fa-facebook-f"></i></a>
@@ -83,7 +83,7 @@
 <!--                            <a href="#">Dla mediów</a>-->
 <!--                        </li>-->
                         <li>
-                            <a href="kontakt.php">Kontakt</a>
+                            <a href="kontakt.php">Контакт</a>
                         </li>
                     </ul>
                 </div>
@@ -103,32 +103,32 @@
         <div class="row">
             <div class="col">
                 <ul>
-                    <li><span>O wystawie <i class="fa fa-chevron-down ml-3"></i></span>
+                    <li><span>Про виставку <i class="fa fa-chevron-down ml-3"></i></span>
                         <ul>
                             <li>
-                                <a href="o-targach.php">O TARGACH</a>
+                                <a href="o-targach.php">про Агро Виставку Схід</a>
                             </li>
                             <li>
-                                <a href="galeria.php">GALERIA</a>
+                                <a href="galeria.php">галерея</a>
                             </li>
                         </ul>
                     </li>
-                    <li><span>Dla wystawców <i class="fa fa-chevron-down ml-3"></i></span>
+                    <li><span>Для Експонентів <i class="fa fa-chevron-down ml-3"></i></span>
                         <ul>
                             <li>
-                                <a href="zgloszenia.php">ZGŁOSZENIE</a>
+                                <a href="zgloszenia.php">Заявки</a>
                             </li>
                             <li>
-                                <a href="regulamin.php">REGULAMIN</a>
+                                <a href="regulamin.php">правила</a>
                             </li>
                             <li>
-                                <a href="plan-targow.php">PLAN</a>
+                                <a href="plan-targow.php">план</a>
                             </li>
 							<li>
-                                <a href="wystawcy.php">WYSTAWCY</a>
+                                <a href="wystawcy.php">Експоненти</a>
                             </li>
                             <li>
-                                <a href="kontakt.php">DOJAZD</a>
+                                <a href="kontakt.php">план доїзду</a>
                             </li>
                         </ul>
                     </li>

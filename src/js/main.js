@@ -52,6 +52,7 @@ var x = setInterval(function () {
     // document.getElementById("demo").innerHTML = days + "d " + hours + "h "
     //     + minutes + "m " + seconds + "s ";
     document.getElementById('counter').innerHTML = days + ' dni ' + hours + ' godzin ' + minutes + 'minut';
+	
 
     // If the count down is finished, write some text
     if (distance < 0) {

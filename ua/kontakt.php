@@ -6,9 +6,9 @@
         <div class="col-xs-12 col-sm-6 no-padding">
             <div class="box-contact">
                 <p>
-                    <b>Organizator <br>
-                        P.P.H.U. Sawa Expo Stanisław Sawa</b> <br>
-                    Nowosiółki 79, 22-652 Telatyn<br><br><br><br><br><br><br>
+                    <b>Організатор  <br>
+                        Торгівельно-сервісне підприємство SAWA EXPO Станіслав Сава</b> <br>
+                    Новосюлки 79, 22-652 Телятин<br><br><br><br><br><br><br>
 
 
 
@@ -29,11 +29,10 @@
         <div class="col-xs-12 col-sm-6 no-padding">
             <div class="box-contact" >
                 <p>
-                    <b>Biuro Agro Targów Wschód</b><br>
-                    Tel. <b>+48 606 418 785</b><br>
+                    <b>Офіс Агро Виставки Схід</b><br>
                     <!-- Tel. <b>+48 502 026 753</b><br> -->
                     <b><a href="mailto:biuro@agrotargiwschod.pl"> e-mail: biuro@agrotargiwschod.pl</a></b>
-                    <br><br><b>Marketing</b><br>
+                    <br><br><b>Контакт на українській мові</b><br>
                     Tel. <b>+48 607 817 183</b><br>
                     <b><a href="mailto: marketing@agrotargiwschod.pl"> e-mail:  marketing@agrotargiwschod.pl</a></b><br>
 
