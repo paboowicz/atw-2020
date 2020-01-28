@@ -53,7 +53,7 @@
         </div>
         <div class="col-12 col-sm-6 col-lg-auto pt-3 pt-sm-0 d-flex flex-column justify-content-center align-items-center align-content-sm-start">
             <h3 class="heading-3">20-21 червня 2020  <br> Сколошув </h3>
-            <small>Залишилось <b id="counter"></b></small>
+            <small>Залишилось <b id="counter2"></b></small>
         </div>
         <div class="col-12 col-lg pt-3 pt-md-0">
             <div class="row d-flex justify-content-end">
