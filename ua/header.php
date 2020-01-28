@@ -38,7 +38,11 @@
 
         gtag('config', 'UA-98798397-1');
     </script>
-
+	<!--<script type="text/javascript">
+    window.onload = function(){
+        location.href=document.getElementById("lang-select").value;
+    }       
+</script> -->
 
     <!--<script type="text/javascript" src="../../dist/js/script.js"></script>-->
 
@@ -63,9 +67,10 @@
                 </div>
                 <div class="col-6 col-md-auto d-flex align-items-center justify-content-end">
                    <!-- <small class="mr-3">Język</small> -->
-                    <select name="lang" id="lang-select" class="form-control form-control-sm my-select">
-                        <option value="pl">PL</option>
-                        <option value="ua">UA</option>
+                    <select onchange="location = this.value;" class="form-control form-control-sm my-select" >
+                        <option value="">UA</option>
+						<option value="http://www.agrotargiwschod.pl">PL</option>
+                        
                     </select>
                 </div>
                 <div class="col-6 col-md-auto d-flex align-items-center">

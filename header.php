@@ -61,13 +61,21 @@
                     <small class="mr-3">ORGANIZATOR:</small>
                     <img src="./src/assets/img/_update/organizator.png" alt="polska izba gospodarcza">
                 </div>
-                <div class="col-6 col-md-auto d-flex align-items-center justify-content-end">
+				<div class="col-6 col-md-auto d-flex align-items-center justify-content-end">
+                   <!-- <small class="mr-3">Język</small> -->
+                   <!-- <select onchange="location = this.value;" class="form-control form-control-sm my-select" >
+                        <option value="">PL</option>
+						<option value="/ua">UA</option> -->
+                        
+                    </select>
+                </div>
+ <!--               <div class="col-6 col-md-auto d-flex align-items-center justify-content-end"> -->
 <!--                    <small class="mr-3">Język</small>-->
 <!--                    <select name="lang" id="lang-select" class="form-control form-control-sm my-select">-->
 <!--                        <option value="pl">PL</option>-->
 <!--                        <option value="en">EN</option>-->
 <!--                    </select>-->
-                </div>
+<!--                </div>  -->
                 <div class="col-6 col-md-auto d-flex align-items-center">
                     <a href="https://www.facebook.com/AgroTargiWschod/?__tn__=%2Cd%2CP-R&eid=ARC_RXuBDsG7KzKjpj9d5NPMAGP9aTFAf4WSyviW8V9m9cIbg6o2vVxIt-dhyi6apu_4cpJrcXKVOCDy" target="_blank" class="icon-circle mr-2"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.youtube.com/channel/UCuCU9C1ozVR60ASLK4T1vjw/featured" target="_blank" class="icon-circle"><i class="fab fa-youtube"></i></a>
