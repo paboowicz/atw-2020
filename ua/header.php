@@ -116,10 +116,10 @@
                     <li><span>Для Експонентів <i class="fa fa-chevron-down ml-3"></i></span>
                         <ul>
                             <li>
-                                <a href="zgloszenia.php">Заявки</a>
+                                <a target="_blank" href="./src/assets/pdf/20200128/formularz.pdf">Заявки</a>
                             </li>
                             <li>
-                                <a href="regulamin.php">правила</a>
+                                <a target="_blank" href="./src/assets/pdf/20200128/regulamin.pdf">правила</a>
                             </li>
                             <li>
                                 <a href="plan-targow.php">план</a>

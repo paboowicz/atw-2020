@@ -11,7 +11,7 @@
                 <div class="thumb mr-0">
                     <?php include('../src/assets/img/_update/ico/zgloszenia.svg') ?>
                 </div>
-                Zgłoszenie
+                Заявки
             </a>
         </div>
         <div class="col-12 col-md-4">
@@ -19,7 +19,7 @@
                 <div class="thumb">
                     <?php include('../src/assets/img/_update/ico/plan_imprezy.svg') ?>
                 </div>
-                Plan
+                план
             </a>
         </div>
         <div class="col-12 col-md-4">
@@ -27,7 +27,7 @@
                 <div class="thumb">
                     <?php include('../src/assets/img/_update/ico/lista_wystawcow.svg') ?>
                 </div>
-                Lista Wystawców
+                Експоненти
             </a>
         </div>
     </div>

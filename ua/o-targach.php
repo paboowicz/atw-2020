@@ -8,21 +8,15 @@
     <div class="row mb-5">
         <div class="col-lg-6 d-flex flex-column align-items-center">
             <img src="../src/assets/img/1.jpg" alt="img" class="img-fluid w-75">
-            <small class="font-italic">Spotkanie przedstawiciela Agro Targów Wschód z prezydentem DLG. Hannover, listopad 2017</small>
+            <small class="font-italic">Зустріч представника Агро Виставки Схід з генеральним директором DLG. Ганновер, листопад 2017 р.</small>
         </div>
         <div class="col-lg-6">
             <div class="item">
-                <h1 class="heading-1 p-3">Agro Targi Wschód </h1>
+                <h1 class="heading-1 p-3">Агро Виставка Схід </h1>
 
-                <p>Agro Targi Wschód to cykliczne wydarzenie, którego celem jest promowanie polskich producentów
-                    żywności, hodowli, maszyn i urządzeń rolniczych. <u>Promowanie Produktu Polskiego- zgodnie ze
-                    stwierdzeniem Pana Jana Krzysztofa Ardanowskiego, Ministra Rolnictwa i Rozwoju Wsi jest najlepiej
-                    rozumianym patriotyzmem gospodarczym</u>. Misją targów jest również promowanie dorobku gospodarczego,
-                    rolniczego i dziedzictwa kulturowego regionu podkarpacia.</p>
+                <p>Агро Виставка Схід- це щорічна подія , метою якої є популяризація польських товаровиробників харчової промисловості, сільськогосподарської техніки та аграрного сектору.  <u>Згідно з думкою пана Яна Кшиштофа Ардановського, Міністра Сільського Господарства та Розвитку Села- популяризація польського продукту є найкращим економічним патріотизмом </u>. Місія виставки, це також популяризація економічних та сільськогосподарських  досягнень, культурної спадщини регіону Підкарпаття.</p>
 
-                <p>III Agro Targi Wschód w ubiegłym roku odwiedziło kilkadziesiąt tysięcy osób i wystawiło się ok.150
-                    wystawców. TVP1 przekazywała bezpośrednie relacje na antenę ogólnopolską. Targi były szeroko
-                    reklamowane w różnych mediach.</p>
+                <p>Минулорічну ІІІ Агро Виставка Схід, відвідало кількадесят тисяч осіб і взяло участь майже 150 експонентів. Канал  TVP 1 надавав безпосередню трансляцію на телебачення. Виставка була широкомаштабно рекламована в засобах масової інформації.</p>
             </div>
         </div>
 
@@ -30,23 +24,14 @@
 
     <div class="row pt-5">
         <div class="col-lg-6">
-            <p>Dynamiczny rozwój wystawy wynika z jej doskonałej lokalizacji - 20 km od granicy z Ukrainą, przy
-                skrzyżowaniu A4 i DK 77. Autostrada A4 dochodzi do największego przejścia granicznego
-                Korczowa-Krakowiec, skąd do milionowego miasta Lwowa jest już tylko 80 km. Ukraina to czołowy, światowy
-                producent żywności z najlepszymi glebami w skali świata. Elitarne położenie targów, przy tak ogromnym
-                rynku wyróżnia nas od innych i przesądza o ich rozwoju. Na wzór „piłkarskiego Euro 2012” w 2019 roku
-                nawiązaliśmy współpracę z jednym z ważniejszych podmiotów branży rolniczej na Ukrainie, czego efektem
-                była wizyta Wiceministra Rolnictwa Ukrainy Wiktora Szeremety z grupą przedstawicieli tamtejszych
-                organizacji rolniczych i samych rolników. Na bezpośrednich spotkaniach z naszymi ukraińskimi sąsiadami
-                uświadamiamy im, jak wielki potencjał posiada Polska jako producent żywności, maszyn i urządzeń
-                rolniczych.</p>
+            <p>Динамічний розвиток виставки виникає з її досконалої локалізації- 20 км від українського кордону, при перехресті А4 і ДК 77. Автобан  4 добігає до найбільшої митниці Корчова – Краківець, звідки лише 80 кілометрів до Львова. Україна, це один з провідних товаровиробників у харчовій промисловості, з найкращими грунтами в світовому масштабі. Елітарне розташування виставки, неподалік такого масштабного ринку, вирізняє нас від інших. На зразок Чемпіонату з футболу 2012, в 2019 році ми налагодили співпрацю з одним з важливіших суб”єктів агропромисловості України, результатом чого був візит заступника міністра Аграрної політики та продовольства України Віктора Шеремети з групою фермерів та представників фермерських асоціацій України. Під час таких зустрічей з українськими сусідами, усвідомлюємо їм, який великий потенціал має Польща-  продовольчий товаровиробник та виробник  сільськогосподарської техніки .</p>
         </div>
         <div class="col-lg-6 d-flex flex-column align-items-center">
             <img src="../src/assets/img/_update/o-targach2.jpg" alt="img" class="img-fluid">
-            <small class="font-italic">Stanisław Sawa (drugi z lewej) przed ukraińskim wystawcą. Pierwszy z prawej - Wiktor Szeremeta, wiceminister rolnictwa Ukrainy</small>
+            <small class="font-italic">Станіслав Сава (другий зліва) біля експонента з України. Перший з правої- Віктор Шеремета, заступник міністра  Аграрної політики та продовольства України.</small>
         </div>
         <div class="col-12 d-flex justify-content-center mt-5 mb-5 pt-5 pb-5">
-            <h3 class="heading-3 w-50 text-center">Tegoroczne, czwarte Agro Targi Wschód organizowane w czerwcu 2020 roku zapowiadają się z jeszcze większym rozmachem.</h3>
+            <h3 class="heading-3 w-50 text-center">Цьогорічна, четверта Агро Виставка Схід в червні 2020 року, відбудеться зі ще більшим розмахом.</h3>
         </div>
     </div>
 
