@@ -7,7 +7,7 @@
 
     <div class="row mb-5">
         <div class="col-lg-6 d-flex flex-column align-items-center">
-            <img src="./src/assets/img/1.jpg" alt="img" class="img-fluid w-75">
+            <img src="../src/assets/img/1.jpg" alt="img" class="img-fluid w-75">
             <small class="font-italic">Spotkanie przedstawiciela Agro Targów Wschód z prezydentem DLG. Hannover, listopad 2017</small>
         </div>
         <div class="col-lg-6">
@@ -42,7 +42,7 @@
                 rolniczych.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column align-items-center">
-            <img src="./src/assets/img/_update/o-targach2.jpg" alt="img" class="img-fluid">
+            <img src="../src/assets/img/_update/o-targach2.jpg" alt="img" class="img-fluid">
             <small class="font-italic">Stanisław Sawa (drugi z lewej) przed ukraińskim wystawcą. Pierwszy z prawej - Wiktor Szeremeta, wiceminister rolnictwa Ukrainy</small>
         </div>
         <div class="col-12 d-flex justify-content-center mt-5 mb-5 pt-5 pb-5">

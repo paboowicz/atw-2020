@@ -9,7 +9,7 @@
         <div class="col-12 col-md-4">
             <a href="zgloszenia.php" class="item">
                 <div class="thumb mr-0">
-                    <?php include('./src/assets/img/_update/ico/zgloszenia.svg') ?>
+                    <?php include('../src/assets/img/_update/ico/zgloszenia.svg') ?>
                 </div>
                 Zgłoszenie
             </a>
@@ -17,7 +17,7 @@
         <div class="col-12 col-md-4">
             <a href="plan-targow.php" class="item">
                 <div class="thumb">
-                    <?php include('./src/assets/img/_update/ico/plan_imprezy.svg') ?>
+                    <?php include('../src/assets/img/_update/ico/plan_imprezy.svg') ?>
                 </div>
                 Plan
             </a>
@@ -25,7 +25,7 @@
         <div class="col-12 col-md-4">
             <a href="wystawcy.php" class="item">
                 <div class="thumb">
-                    <?php include('./src/assets/img/_update/ico/lista_wystawcow.svg') ?>
+                    <?php include('../src/assets/img/_update/ico/lista_wystawcow.svg') ?>
                 </div>
                 Lista Wystawców
             </a>
@@ -101,17 +101,17 @@
 
             <div class="row">
                 <div class="col-xs-12 col-md-4 sponsorship">
-                    <img  src="src/assets/img/partnerzy/kowr115.png " alt="KRAJOWY OŚRODEK WSPARCIA ROLNICTWA">
+                    <img  src="../../src/assets/img/partnerzy/kowr115.png " alt="KRAJOWY OŚRODEK WSPARCIA ROLNICTWA">
                     <!-- <h4>PARTNER</h4>
                     <p>KRAJOWY OŚRODEK WSPARCIA ROLNICTWA</p> -->
                 </div>
                 <div class="col-xs-12 col-md-4 sponsorship">
-                    <img  src="src/assets/img/partnerzy/armir115.png" alt="Agencja Restrukturyzacji i Modernizacji Rolnictwa">
+                    <img  src="../../src/assets/img/partnerzy/armir115.png" alt="Agencja Restrukturyzacji i Modernizacji Rolnictwa">
                     <!-- <h4>PARTNER</h4>
                     <p>AGENCJA RESTRUKTURYZACJI I MODERNIZACJI ROLNICTWA</p> -->
                 </div>
                 <div class="col-xs-12 col-md-4 sponsorship">
-                    <img  src="src/assets/img/partnerzy/krus115.png" alt="Kasa Rolniczego Ubezpieczenia Społecznego">
+                    <img  src="../../src/assets/img/partnerzy/krus115.png" alt="Kasa Rolniczego Ubezpieczenia Społecznego">
                     <!-- <h4>PARTNER</h4>
                     <p>KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO</p> -->
                 </div>
@@ -152,12 +152,12 @@
                     <p>Jan Krzysztof Ardanowski</p>
                 </div> -->
                 <div class="col-xs-12 col-md-4 ">
-                    <img  src="src/assets/img/partnerzy/partner1x.png" alt="MINISTER ROLNICTWA I ROZWOJU WSI">
+                    <img  src="../../src/assets/img/partnerzy/partner1x.png" alt="MINISTER ROLNICTWA I ROZWOJU WSI">
                     <p class="partners-caption">Minister Rolnictwa <br>
                         i Rozwoju Wsi</p>
                 </div>
                 <div class="col-xs-12 col-md-4 ">
-                    <img src="src/assets/img/partnerzy/partner2x.png" alt="MARSZAŁEK WOJEWÓDZTWA PODKARPACKIEGO">
+                    <img src="../../src/assets/img/partnerzy/partner2x.png" alt="MARSZAŁEK WOJEWÓDZTWA PODKARPACKIEGO">
                     <p class="partners-caption">Marszałek Województwa <br>
                         Podkarpackiego</p>
                 </div>
@@ -186,10 +186,10 @@
                      <img src="src/assets/img/media/tvp1190.png" alt="">
                 </div>-->
                 <div class="col-xs-12 col-md-4 ">
-                    <img src="src/assets/img/media/tvp1190.png" alt="">
+                    <img src="../../src/assets/img/media/tvp1190.png" alt="">
                 </div>
                 <div class="col-xs-12 col-md-4 ">
-                    <img src="src/assets/img/media/tvp3rze190.png" alt="">
+                    <img src="../../src/assets/img/media/tvp3rze190.png" alt="">
                 </div>
 
                 <!-- <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -324,8 +324,8 @@
 
 <div class="videocontainer d-flex">
     <video width="100%" loop muted autoplay poster="" class="fullscreen-bg__video">
-        <source src="src/assets/img/video.mp4" type="video/webm">
-        <source src="src/assets/img/video.mp4" type="video/mp4">
+        <source src="../../src/assets/img/video.mp4" type="video/webm">
+        <source src="../../src/assets/img/video.mp4" type="video/mp4">
     </video>
 </div>
 

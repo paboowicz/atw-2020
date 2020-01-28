@@ -9,19 +9,19 @@
 
 <!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="./dist/css/slick.css">
-    <link rel="stylesheet" href="./dist/css/simplelightbox.min.css">
-    <link rel="stylesheet" href="./dist/css/main.min.css">
-    <link rel="stylesheet" href="./dist/css/style.css">
+    <link rel="stylesheet" href="../../dist/css/slick.css">
+    <link rel="stylesheet" href="../../dist/css/simplelightbox.min.css">
+    <link rel="stylesheet" href="../../dist/css/main.min.css">
+    <link rel="stylesheet" href="../../dist/css/style.css">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
 
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
-    <script src="./dist/js/slick.min.js"></script>
+    <script src="../../dist/js/slick.min.js"></script>
 <!--    <script src="dist/js/scripts.min.js"></script>-->
-    <script src="./dist/js/simple-lightbox.min.js"></script>
-    <script src="./src/js/main.js"></script>
+    <script src="../../dist/js/simple-lightbox.min.js"></script>
+    <script src="../../src/js/main.js"></script>
 
 
 
@@ -49,7 +49,7 @@
 <header class="container main-header">
     <div class="row">
         <div class="col-12 col-sm-6 col-lg-auto d-flex align-items-center justify-content-center justify-content-sm-start">
-            <a href="index.php"><img src="./src/assets/img/logo.png" alt="Logo"></a>
+            <a href="index.php"><img src="../src/assets/img/logo.png" alt="Logo"></a>
         </div>
         <div class="col-12 col-sm-6 col-lg-auto pt-3 pt-sm-0 d-flex flex-column justify-content-center align-items-center align-content-sm-start">
             <h3 class="heading-3">20-21 CZERWCA 2020 <br> SKOŁOSZÓW </h3>
@@ -59,7 +59,7 @@
             <div class="row d-flex justify-content-end">
                 <div class="col-md-6 col-lg-12 col-xl-auto d-flex align-items-center justify-content-end">
                     <small class="mr-3">ORGANIZATOR:</small>
-                    <img src="./src/assets/img/_update/organizator.png" alt="polska izba gospodarcza">
+                    <img src="../src/assets/img/_update/organizator.png" alt="polska izba gospodarcza">
                 </div>
                 <div class="col-6 col-md-auto d-flex align-items-center justify-content-end">
 <!--                    <small class="mr-3">Język</small>-->
