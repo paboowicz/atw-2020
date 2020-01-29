@@ -57,7 +57,7 @@ var x = setInterval(function () {
     // If the count down is finished, write some text
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("counter").innerHTML = "To już! Zapraszamy!";
+        document.getElementById("counter").innerHTML = "Czas się skonczył , Zapraszamy!";
     }
 }, 1000);
 
@@ -84,6 +84,6 @@ var x = setInterval(function () {
     // If the count down is finished, write some text
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("counter").innerHTML = "To już! Zapraszamy!";
+        document.getElementById("counter").innerHTML = "Час закінчився, запрошуємо";
     }
 }, 1000);

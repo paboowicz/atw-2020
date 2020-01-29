@@ -66,7 +66,7 @@
                     <img src="../src/assets/img/_update/organizator.png" alt="polska izba gospodarcza">
                 </div>
                 <div class="col-6 col-md-auto d-flex align-items-center justify-content-end">
-                   <!-- <small class="mr-3">Język</small> -->
+                   <small class="mr-3">Język</small>
                     <select onchange="location = this.value;" class="form-control form-control-sm my-select" >
                         <option value="">UA</option>
 						<option value="http://www.agrotargiwschod.pl">PL</option>
