@@ -111,10 +111,10 @@
                     <li><span>Про виставку <i class="fa fa-chevron-down ml-3"></i></span>
                         <ul>
                             <li>
-                                <a href="o-targach.php">про Агро Виставку Схід</a>
+                                <a href="o-targach.php">Про Агро Виставку Схід</a>
                             </li>
                             <li>
-                                <a href="galeria.php">галерея</a>
+                                <a href="galeria.php">Галерея</a>
                             </li>
                         </ul>
                     </li>
@@ -124,16 +124,16 @@
                                 <a target="_blank" href="./src/assets/pdf/20200128/formularz.pdf">Заявки</a>
                             </li>
                             <li>
-                                <a target="_blank" href="./src/assets/pdf/20200128/regulamin.pdf">правила</a>
+                                <a target="_blank" href="./src/assets/pdf/20200128/regulamin.pdf">Правила</a>
                             </li>
                             <li>
-                                <a href="plan-targow.php">план</a>
+                                <a href="plan-targow.php">План</a>
                             </li>
 							<li>
                                 <a href="wystawcy.php">Експоненти</a>
                             </li>
                             <li>
-                                <a href="kontakt.php">план доїзду</a>
+                                <a href="kontakt.php">План доїзду</a>
                             </li>
                         </ul>
                     </li>

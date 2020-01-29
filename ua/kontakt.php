@@ -32,9 +32,11 @@
                     <b>Офіс Агро Виставки Схід</b><br>
                     <!-- Tel. <b>+48 502 026 753</b><br> -->
                     <b><a href="mailto:biuro@agrotargiwschod.pl"> e-mail: biuro@agrotargiwschod.pl</a></b>
-                    <br><br><b>Контакт на українській мові</b><br>
+                    <br><br><b>Контакт українською мовою</b><br>
+					<b><a href="mailto: marketing@agrotargiwschod.pl"> e-mail:  marketing@agrotargiwschod.pl</a></b><br>
+					Ольга Сєвєрска<br>
                     Tel. <b>+48 607 817 183</b><br>
-                    <b><a href="mailto: marketing@agrotargiwschod.pl"> e-mail:  marketing@agrotargiwschod.pl</a></b><br>
+                    
 
                     <!--<b>Właściciel<br></b>
                     Stanisław Sawa<br>

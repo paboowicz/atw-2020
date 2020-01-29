@@ -19,7 +19,7 @@
                 <div class="thumb">
                     <?php include('../src/assets/img/_update/ico/plan_imprezy.svg') ?>
                 </div>
-                план
+                План
             </a>
         </div>
         <div class="col-12 col-md-4">
@@ -94,7 +94,7 @@
 
             <div class="row">
                 <div class="aside-small-header">
-                    <h6 class="text-right">Partnerzy</h6>
+                    <h6 class="text-right">Партнери</h6>
                     <hr>
                 </div>
             </div>
@@ -129,7 +129,7 @@
             <!-- <h3></h3> -->
             <div class="row">
                 <div class="aside-small-header">
-                    <h6 class="text-right">Patronat</h6>
+                    <h6 class="text-right">Підтримка</h6>
                     <hr>
                 </div>
             </div>
@@ -174,7 +174,7 @@
             <!-- <h3> </h3> -->
             <div class="row">
                 <div class="aside-small-header">
-                    <h6 class="text-right">Patronat Medialny</h6>
+                    <h6 class="text-right">Медіасупровід</h6>
                     <hr>
                 </div>
             </div>
