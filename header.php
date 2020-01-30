@@ -63,9 +63,9 @@
                 </div>
 				<div class="col-6 col-md-auto d-flex align-items-center justify-content-end">
                    <!-- <small class="mr-3">Język</small> -->
-                   <!-- <select onchange="location = this.value;" class="form-control form-control-sm my-select" >
+                    <select onchange="location = this.value;" class="form-control form-control-sm my-select" >
                         <option value="">PL</option>
-						<option value="/ua">UA</option> -->
+						<option value="/ua">UA</option> 
                         
                     </select>
                 </div>
