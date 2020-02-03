@@ -124,7 +124,7 @@
                                 <a target="_blank" href="./src/assets/pdf/20200128/formularz.pdf">Заявки</a>
                             </li>
                             <li>
-                                <a target="_blank" href="./src/assets/pdf/20200128/regulamin.pdf">Правила</a>
+                                <a target="_blank" href="./src/assets/pdf/20200203/regulamin.pdf">Правила</a>
                             </li>
                             <li>
                                 <a href="plan-targow.php">План</a>
