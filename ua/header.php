@@ -63,7 +63,7 @@
             <div class="row d-flex justify-content-end">
                 <div class="col-md-6 col-lg-12 col-xl-auto d-flex align-items-center justify-content-end">
                     <small class="mr-3">Організатор:</small>
-                    <img src="../src/assets/img/_update/organizator.png" alt="polska izba gospodarcza">
+                    <img src="../src/assets/img/_update/organizator.png" alt="SAWA EXPO">
                 </div>
                 <div class="col-6 col-md-auto d-flex align-items-center justify-content-end">
                    <!--<small class="mr-3">Język</small>-->
