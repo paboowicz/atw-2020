@@ -35,7 +35,7 @@
                     <br><br><b>Контакт українською мовою</b><br>
 					<b><a href="mailto: marketing@agrotargiwschod.pl"> e-mail:  marketing@agrotargiwschod.pl</a></b><br>
 					Ольга Сєвєрска<br>
-                    Tel. <b>+48 782 282 678</b><br>
+                    Tel. <b>+48 667 109 069</b><br>
                     
 
                     <!--<b>Właściciel<br></b>
