@@ -65,7 +65,7 @@
                             </a>
                         </li> -->
                         <li class="dllink">
-                            <a target="_blank" href="./src/assets/pdf/20200206/umowa_handel_drobny_2020.pdf">Umowa dla handlu drobnego
+                            <a target="_blank" href="./src/assets/pdf/20200211/umowa_handel_drobny_2020.pdf">Umowa dla handlu drobnego
                                 <img src="./src/assets/img/pdficon.png">
                             </a>
                         </li>
@@ -125,7 +125,7 @@
         </div>
     </div>
 
-    <div class="container">
+   <!-- <div class="container">
         <div class="row">
             <div class="col-12 no-padding">
                 <h5>Reklamy</h5>
@@ -146,7 +146,7 @@
                         <td>Logo (firmy, marki) w centralnym punkcie Agro Targów Wschód</td>
                         <td>150,00 pln</td>
                     </tr>-->
-                    <tr>
+                  <!--  <tr>
                         <td>Baner/flaga przy głównej alei targowej </td>
                         <td>150,00 pln</td>
                     </tr>
@@ -162,7 +162,7 @@
                         <td>Baner/flaga z widokiem na drogę krajową77</td>
                         <td>150,00 pln</td>
                     </tr> -->
-                    <tr>
+           <!--         <tr>
                         <td>Inne do uzgodnienia z Organizatorem</td>
                         <td>cena do uzgodnienia</td>
                     </tr>
@@ -171,11 +171,12 @@
                 <!--<span><a href="./src/assets/pdf/20190911/CENNIK-REKLAM.pdf">pobierz cennik
                     <img src="./src/assets/img/pdficon.png">
                     </a></span>-->
-            </div>
+     <!--       </div>
 			
         </div>
-    </div><br>
-	<div class="container">
+    </div>  -->
+	<br>
+	<!--<div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-12 no-padding">
                 <div class="text-box">
@@ -192,7 +193,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
 	
 
 
