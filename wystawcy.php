@@ -25,78 +25,87 @@
 	      <div class="col-md-12">
 	        <div class="sponsors-list">
 	          <ul>
+				<li><img src="./src/assets/img/sponsorzy/mini/agropion250.jpg" alt="sponsors"/></li>
+				<li><img src="./src/assets/img/sponsorzy/mini/agrosulca250.png" alt="sponsors"/></li>
+				<li><img src="./src/assets/img/sponsorzy/mini/alistan250.jpg" alt="sponsors"/></li>
+				<li><img src="./src/assets/img/sponsorzy/mini/dorin250.jpeg" alt="sponsors"/></li>
+				<li><img src="./src/assets/img/sponsorzy/mini/hfhd250.jpg" alt="sponsors"/></li>
+				<li><img src="./src/assets/img/sponsorzy/mini/pcm250.png" alt="sponsors"/></li>
+				<li><img src="./src/assets/img/sponsorzy/mini/scorpion250.png" alt="sponsors"/></li>
+				
+				<hr>
 	        	<li>
 	        	   	<a href="http://www.kowr.gov.pl/">
 	        	   		<img src="./src/assets/img/sponsorzy/mini/kowr300.png" alt="sponsors"/>
 	        	   	</a>
-	        	           		</li>
-	        	           		<li>
-	        	   					<a href="https://www.arimr.gov.pl/">
-	        	   						<img src="./src/assets/img/sponsorzy/mini/armir300.png" alt="sponsors"/>
-	        	   					</a>
-	        	   				</li>
-	        	           		<li>
-	        	           			<a href="https://www.krus.gov.pl/">
-	        	           				<img src="./src/assets/img/sponsorzy/mini/krus300.png" alt="sponsors"/>
-	        	           			</a>
-	        	           		</li> 
-	        	           		<li>
-	        	           			<a href="https://www.targikielce.pl/">
-	        	           				<img src="./src/assets/img/sponsorzy/mini/targikielce250.png" alt="sponsors"/>
-	        	           			</a>	
-	        	           		</li>
-	        	           		<li>
-	        	           			<a href="http://www.iung.pulawy.pl/">
-	        	           				<img src="./src/assets/img/sponsorzy/mini/iung300.png" alt="sponsors"/>
-	        	           			</a>	
-	        	           		</li> 
-	        	           		<li>
-	        	           			<a href="http://www.izoo.krakow.pl/">
-	        	           				<img src="./src/assets/img/sponsorzy/mini/pib300.png" alt="sponsors"/>
-	        	           			</a>	
-	        	           		</li> 
-	        	           		<li>
-	        	           			<a href="http://www.ihar.edu.pl/">
-	        	           				<img src="./src/assets/img/sponsorzy/mini/ihar300.png" alt="sponsors"/>
-	        	           			</a>
-	        	           		</li> 
-	        	           		<li>
-	        	           			<a href="https://www.ibprs.pl/">
-	        	           				<img src="./src/assets/img/sponsorzy/mini/ibprs300.png" alt="sponsors"/>
-	        	           			</a>
-	        	           		</li>
-	        	           		<li>
-	        	           			<a href="https://www.ior.poznan.pl/">
-	        	           				<img src="./src/assets/img/sponsorzy/mini/ior300.png" alt="sponsors"/>
-	        	           			</a>
-	        	           		</li>
-	        	           		<li>
-	        	           			<a href="http://www.inhort.pl/">
-	        	           				<img src="./src/assets/img/sponsorzy/mini/ios300.png" alt="sponsors"/>
-	        	           			</a>	
-	        	           		</li>  
-	        	           		<li>
-	        	           			<a href="https://www.ierigz.waw.pl/">
-	        	           				<img src="./src/assets/img/sponsorzy/mini/iergz300.png" alt="sponsors"/>
-	        	           			</a>
-	        	           		</li>  
-								<li>
-	        	           			<a href="http://www.sggw.pl/">
-	        	           				<img src="./src/assets/img/sponsorzy/mini/sggw-300.png" alt="sponsors"/>
-	        	           			</a>
-	        	           		</li>
-	        	           		<li>
-	        	           			<a href="https://w.prz.edu.pl/">
-	        	           				<img src="./src/assets/img/sponsorzy/mini/prz300.png" alt="sponsors"/>
-	        	           			</a>
-	        	           		</li>
-	        	           		<li>
-	        	           			<a href="http://ur.edu.pl/">
-	        	           				<img src="./src/assets/img/sponsorzy/mini/urz300.png" alt="sponsors"/>
-	        	           			</a>	
-	        	           		</li> 
-	        	           		<li><img src="./src/assets/img/sponsorzy/mini/inrjch300.png" alt="sponsors"/></li>   
-	        	           		<li><img src="./src/assets/img/sponsorzy/mini/puurdch300.png" alt="sponsors"/></li>  
+	        	</li>
+	        	<li>
+	        	   	<a href="https://www.arimr.gov.pl/">
+	        	   		<img src="./src/assets/img/sponsorzy/mini/armir300.png" alt="sponsors"/>
+	        	   	</a>
+	        	</li>
+	        	<li>
+	        		<a href="https://www.krus.gov.pl/">
+	        			<img src="./src/assets/img/sponsorzy/mini/krus300.png" alt="sponsors"/>
+					</a>
+	        	</li> 
+	        	<li>
+	        	    <a href="https://www.targikielce.pl/">
+	        	    	<img src="./src/assets/img/sponsorzy/mini/targikielce250.png" alt="sponsors"/>
+	        	    </a>	
+	        	</li>
+	        	<li>
+					<a href="http://www.iung.pulawy.pl/">
+	        			<img src="./src/assets/img/sponsorzy/mini/iung300.png" alt="sponsors"/>
+	        	    </a>	
+	        	</li> 
+	        	<li>
+	        	    <a href="http://www.izoo.krakow.pl/">
+	        	        <img src="./src/assets/img/sponsorzy/mini/pib300.png" alt="sponsors"/>
+	        	    </a>	
+	        	</li> 
+	        	<li>
+	        	    <a href="http://www.ihar.edu.pl/">
+	        	    	<img src="./src/assets/img/sponsorzy/mini/ihar300.png" alt="sponsors"/>
+	        	    </a>
+	        	</li> 
+	        	<li>
+	        		<a href="https://www.ibprs.pl/">
+						<img src="./src/assets/img/sponsorzy/mini/ibprs300.png" alt="sponsors"/>
+	        	    </a>
+	        	</li>
+	        	<li>
+	        	    <a href="https://www.ior.poznan.pl/">
+	        	        <img src="./src/assets/img/sponsorzy/mini/ior300.png" alt="sponsors"/>
+	        	    </a>
+	        	</li>
+	        	<li>
+	        		<a href="http://www.inhort.pl/">
+	        	    	<img src="./src/assets/img/sponsorzy/mini/ios300.png" alt="sponsors"/>
+	        	    </a>	
+	        	</li>  
+	        	<li>
+	        	    <a href="https://www.ierigz.waw.pl/">
+	        	        <img src="./src/assets/img/sponsorzy/mini/iergz300.png" alt="sponsors"/>
+	        	    </a>
+	        	</li>  
+				<li>
+	        	    <a href="http://www.sggw.pl/">
+	        	        <img src="./src/assets/img/sponsorzy/mini/sggw-300.png" alt="sponsors"/>
+	        	    </a>
+	        	 </li>
+	        	 <li>
+	        	    <a href="https://w.prz.edu.pl/">
+						<img src="./src/assets/img/sponsorzy/mini/prz300.png" alt="sponsors"/>
+					</a>
+	        	</li>
+	        	<li>
+	        	    <a href="http://ur.edu.pl/">
+	        	        <img src="./src/assets/img/sponsorzy/mini/urz300.png" alt="sponsors"/>
+	        	</a>	
+	        	</li> 
+	        	<li><img src="./src/assets/img/sponsorzy/mini/inrjch300.png" alt="sponsors"/></li>   
+	        	<li><img src="./src/assets/img/sponsorzy/mini/puurdch300.png" alt="sponsors"/></li>  
 								<!--<li><img src="./src/assets/img/sponsorzy/mini/blank300.png" alt="sponsors"/></li> 
 	        	        		 <li><img src="./src/assets/img/sponsorzy/mini/podr300.png" alt="sponsors"/></li> -->
            		
