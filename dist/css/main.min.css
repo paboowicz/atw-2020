@@ -261,7 +261,7 @@ body {
 .sponsors-list {
 	margin:0 auto;
 	overflow:hidden;
-	text-align:center;
+	text-align:left;
 }
 .sponsors-list > ul {
 	margin:0 auto;
