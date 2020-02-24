@@ -32,6 +32,7 @@
 				<li><img src="./src/assets/img/sponsorzy/mini/hfhd250.jpg" alt="sponsors"/></li>
 				<li><img src="./src/assets/img/sponsorzy/mini/pcm250.png" alt="sponsors"/></li>
 				<li><img src="./src/assets/img/sponsorzy/mini/scorpion250.png" alt="sponsors"/></li>
+				<li><img src="./src/assets/img/sponsorzy/mini/sprinter-logistyka250.jpg" alt="sponsors"/></li>
 				
 				<hr>
 	        	<li>
