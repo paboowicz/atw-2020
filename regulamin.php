@@ -14,7 +14,7 @@
 
                 <ul>
                     <li class="dllink">
-                        <a target="_blank" href="./src/assets/pdf/20200120/regulamin.pdf"><span> Regulamin targów
+                        <a target="_blank" href="./src/assets/pdf/20200120/Regulamin.pdf"><span> Regulamin targów
                                 <img src="./src/assets/img/pdficon.png"></span>
                         </a>
                     </li>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-    <title> 20-21 czerwca 2020 IV Agro Targi Wschód </title>
+    <title> 29-30 Серпень 2020 IV Agro Targi Wschód </title>
     <!-- test rmpgit -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -56,7 +56,7 @@
             <a href="index.php"><img src="../src/assets/img/logo.png" alt="Logo"></a>
         </div>
         <div class="col-12 col-sm-6 col-lg-auto pt-3 pt-sm-0 d-flex flex-column justify-content-center align-items-center align-content-sm-start">
-            <h3 class="heading-3">20-21 червня 2020  <br> Сколошув </h3>
+            <h3 class="heading-3">29 - 30 Серпень 2020  <br> Сколошув </h3>
             <small>Залишилось <b id="counter2"></b></small>
         </div>
         <div class="col-12 col-lg pt-3 pt-md-0">
