@@ -34,14 +34,14 @@
 
 
 
-<div class="container gallery gallery-index">
+<!-- <div class="container gallery gallery-index">
             
             
             <div class="row justify-content-md-center">
                 <div class="col-6 "><a href="https://gieldawschod.pl"><img class="Thumbnail" src="./src/assets/img/slider/Plakat.png" alt=""></a></div>    
             </div>
             
-</div>
+</div> -->
 
 
 
