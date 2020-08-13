@@ -1,6 +1,16 @@
 <?php require_once('header.php') ?>
 
+<div class="container gallery gallery-index">
+            
+            
+            <div class="row justify-content-md-center">
+                <div class="col-9 "><a href=""><img class="Thumbnail" src="./src/assets/pdf/odwolanie/Odwolanie.png" alt=""></a></div>    
+            </div>
+            
+</div>
+
 <?php require_once('slider.php') ?>
+
 
 
 <section class="container info-index">
@@ -34,14 +44,7 @@
 
 
 
-<!-- <div class="container gallery gallery-index">
-            
-            
-            <div class="row justify-content-md-center">
-                <div class="col-6 "><a href="https://gieldawschod.pl"><img class="Thumbnail" src="./src/assets/img/slider/Plakat.png" alt=""></a></div>    
-            </div>
-            
-</div> -->
+
 
 
 
