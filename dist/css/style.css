@@ -402,4 +402,14 @@
 .container {
   max-width: 1200px !important;
 }
+
+.dla_firm{
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center; 
+  text-transform: uppercase;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}s
 /*# sourceMappingURL=style.css.map */
