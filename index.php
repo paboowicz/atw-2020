@@ -1,5 +1,5 @@
 <?php require_once('header.php') ?>
-<div class="dla_firm">Zapraszamy na Giełdę Wschód w każdą sobotę od 5.00<br>
+<div class="dla_firm">Zapraszamy na Giełdę Wschód w każdą sobotę od 5.00<br></div>
 <div class="container gallery gallery-index">
             
             
