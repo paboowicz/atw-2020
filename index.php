@@ -1,10 +1,10 @@
 <?php require_once('header.php') ?>
-<div class="dla_firm">Zapraszamy na Giełdę Wschód w każdą sobotę od 5.00<br></div>
-<div class="container gallery gallery-index">
+<div class="dla_firm">Serdecznie zapraszamy Państwa na Targi Woyciechowskie- Innowacje 2020, które odbędą się w dniach 19-20 września 2020 roku w miejscowości Poturzyn, gmina Telatyn, powiat tomaszowski, województwo lubelskie. Miejscowość w której organizowane są Targi Woyciechowskie położona jest w rejonie hrubieszowsko-tomaszowskich czarnoziemów, najbardziej urodzajnych gleb w Polsce. Jest to rejon intensywnych upraw warzyw i roślin przemysłowych. Wiodącym celem pierwszej edycji Targów Woyciechowski jest promowanie producentów warzyw, produktu polskiego oraz innowacji 2020 (najnowsze rozwiązania w rolnictwie). Teren targów o powierzchni 5ha jest utwardzony płytami betonowymi, obok znajduje się 20ha pól pokazowych na których w ciągu dwóch dni trwania targów odbywać się będą pokazy pracy maszyn. Imiennik Targów Woyciechowskich Tytus Woyciechowski był promotorem cukrownictwa na Lubelszczyźnie, właścicielem pierwszej cukrowni i wielkim przyjacielem Fryderyka Chopina, który latem 15 lipca 1830 roku przebywał w Poturzynie pozostawiając po sobie ślad w postaci utworów. Targi organizowane są w hołdzie światłemu rolnikowi Tytusowi Woyciechowskiemu. Więcej informacji na www.targiwoyciechowskie.pl<br></div>
+<div class="container gallery gallery-index " style="margin-top: 30px;">
             
             
             <div class="row justify-content-md-center">
-                <div class="col-9 "><a href="https://gieldawschod.pl"><img class="Thumbnail" src="./src/assets/img/plakat/Plakat.jpg" alt=""></a></div>    
+                <div class="col-9 "><a href="https://targiwoyciechowskie.pl"><img class="Thumbnail" src="./src/assets/img/_update/TargiWoyciechowskieDuze.png" alt=""></a></div>    
             </div>
             
 </div>
