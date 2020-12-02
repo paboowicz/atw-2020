@@ -31,7 +31,7 @@ $(document).ready(function () {
 });
 
 // Set the date we're counting down to
-var countDownDate = new Date("August 29, 2020 09:00:00").getTime();
+var countDownDate = new Date("June 26, 2021 09:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function () {
@@ -57,7 +57,7 @@ var x = setInterval(function () {
     // If the count down is finished, write some text
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("counter").innerHTML = "Czas się skonczył , Zapraszamy!";
+        document.getElementById("counter").innerHTML = "Czas się skończył , Zapraszamy!";
     }
 }, 1000);
 
