@@ -34,7 +34,7 @@
                     <h5>Formularz dla wystawców:</h5><br> <ul>
 
                         <li class="dllink">
-                            <a target="_blank" href="./src/assets/pdf/20200211/FORMULARZ_ZGLOSZENIOWY_2020.pdf">Formularz zgłoszeniowy IV Agro Targi Wschód
+                            <a target="_blank" href="./src/assets/pdf/2021/FORMULARZ-ZGLOSZENIOWY-2021.pdf">Formularz zgłoszeniowy IV Agro Targi Wschód
                                 <img src="./src/assets/img/pdficon.png">
                             </a>
                         </li>
@@ -65,7 +65,7 @@
                             </a>
                         </li> -->
                         <li class="dllink">
-                            <a target="_blank" href="./src/assets/pdf/20200211/umowa_handel_drobny_2020.pdf">Umowa dla handlu drobnego
+                            <a target="_blank" href="./src/assets/pdf/2021/UMOWA-HANDEL-DROBNY-2021.pdf">Umowa dla handlu drobnego
                                 <img src="./src/assets/img/pdficon.png">
                             </a>
                         </li>
