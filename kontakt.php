@@ -31,6 +31,7 @@
                 <p>
                     <b>Biuro Agro Targów Wschód</b><br>
                     Tel. <b>+48 606 418 785</b><br>
+                    Tel. <b>+48 604 750 443 </b><br>
                     <!-- Tel. <b>+48 502 026 753</b><br> -->
                     <b><a href="mailto:biuro@agrotargiwschod.pl"> e-mail: biuro@agrotargiwschod.pl</a></b>
                     <!-- <br><br><b>Marketing</b><br>
