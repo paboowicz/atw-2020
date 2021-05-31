@@ -1,5 +1,12 @@
 <?php require_once('header.php') ?>
 
+<div class="dla_firm">Szanowni Państwo,<br><br>
+
+        W trosce o Państwa bezpieczeństwo tegoroczna edycja Agro Targów Wschód odbędzie się w późniejszym terminie, który zostanie podany na stronie internetowej oraz w mediach
+         
+        <br>
+    
+</div>
 
 <?php require_once('slider.php') ?>
 
