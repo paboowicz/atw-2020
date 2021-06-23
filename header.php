@@ -52,8 +52,8 @@
             <a href="index.php"><img src="./src/assets/img/logo.png" alt="Logo"></a>
         </div>
         <div class="col-12 col-sm-6 col-lg-auto pt-3 pt-sm-0 d-flex flex-column justify-content-center align-items-center align-content-sm-start">
-            <!-- <h3 class="heading-3"> 26-27 CZERWCA 2021 <br> SKOŁOSZÓW</h3>
-            <small>Pozostało <b id="counter"></b></small> -->
+            <h3 class="heading-3"> 27-29 SIERPNIA 2021 <br> SKOŁOSZÓW</h3>
+            <!-- <small>Pozostało <b id="counter"></b></small> -->
         </div>
         <div class="col-12 col-lg pt-3 pt-md-0">
             <div class="row d-flex justify-content-end">

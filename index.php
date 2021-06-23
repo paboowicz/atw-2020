@@ -2,9 +2,9 @@
 
 <div class="dla_firm">Szanowni Państwo,<br><br>
 
-        W trosce o Państwa bezpieczeństwo tegoroczna edycja Agro Targów Wschód odbędzie się w późniejszym terminie, który zostanie podany na stronie internetowej oraz w mediach
+        IV Agro Targi Wschód odbędą się w dniach 27-29 Sierpnia 2021r. w Skołoszowie, gmina Radymno. Serdecznie zapraszamy.
          
-        <br>
+        <br><br><br>
     
 </div>
 
