@@ -1,9 +1,8 @@
 <?php require_once('header.php') ?>
 
 <div class="dla_firm">Szanowni Państwo,<br><br>
-
-        IV Agro Targi Wschód odbędą się w dniach 27-29 Sierpnia 2021r. w Skołoszowie, gmina Radymno. Serdecznie zapraszamy.
-         
+        Dożynki Powiatu Jarosławskiego na Agro Targach Wschód 27-29 sierpnia 2021r. Więcej szczegółów wkrótce.
+             
         <br><br><br>
     
 </div>
