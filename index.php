@@ -1,7 +1,7 @@
 <?php require_once('header.php') ?>
 
 <div class="dla_firm">Szanowni Państwo,<br><br>
-        Dożynki Powiatu Jarosławskiego na Agro Targach Wschód 27-29 sierpnia 2021r. Więcej szczegółów wkrótce.
+        Dożynki Powiatu Jarosławskiego na Agro Targach Wschód 28-29 sierpnia 2021r. Więcej szczegółów wkrótce.
              
         <br><br><br>
     
