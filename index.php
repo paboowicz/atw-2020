@@ -1,7 +1,17 @@
 <?php require_once('header.php') ?>
 
 <div class="dla_firm">Szanowni Państwo,<br><br>
-        Dożynki Powiatu Jarosławskiego na Agro Targach Wschód 28-29 sierpnia 2021r. Więcej szczegółów wkrótce.
+        Szanowni Państwo,
+
+w związku z trudną sytuacją targową utrzymującą się już drugi rok, spowodowaną pandemią COVID 19, wychodząc naprzeciw Państwa oczekiwaniom obniżamy ceny wynajmu powierzchni wystawowej na Agro Targach Wschód o 50%. Jednocześnie informujemy, że w czasie Targów odbędą się Dożynki Powiatu Jarosławskiego i Gminy Radymno.<br><br>
+    
+
+ 
+
+Powierzchnia wystawowa do 36 m2- 800,00 zł brutto.<br><br>
+    
+
+Ilość miejsc ograniczona.
              
         <br><br><br>
     
