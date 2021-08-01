@@ -207,13 +207,28 @@ Ilość miejsc ograniczona.
                 <!--<div class="col-xs-12 col-md-3 ">
                      <img src="src/assets/img/media/tvp1190.png" alt="">
                 </div>-->
-                <div class="col-xs-12 col-md-4 ">
+                <div class="col-xs-12 col-md-2 ">
                     <img src="src/assets/img/media/tvp1190.png" alt="">
                 </div>
-                <div class="col-xs-12 col-md-4 ">
+                <div class="col-xs-12 col-md-2 ">
                     <img src="src/assets/img/media/tvp3rze190.png" alt="">
                 </div>
+                <div class="col-xs-12 col-md-2 ">
+                    <img src="src/assets/img/media/zycie_pod.png" alt="">
+                </div>
+                <div class="col-xs-12 col-md-2 ">
+                    <img src="src/assets/img/media/polskie_radio_rze.png" alt="">
+                </div>
+               <div class="col-xs-12 col-md-2 ">
+                    <img src="src/assets/img/media/tap.png" alt="">
+                </div>
+                <div class="col-xs-12 col-md-2 ">
+                    <img src="src/assets/img/media/tpr.png" alt="">
+                </div>
+               
 
+
+                
                 <!-- <div id="myCarousel" class="carousel slide" data-ride="carousel">
                                         Indicators
                                         <ol class="carousel-indicators">
