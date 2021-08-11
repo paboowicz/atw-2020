@@ -133,7 +133,7 @@ Ilość miejsc ograniczona.
                     <p>AGENCJA RESTRUKTURYZACJI I MODERNIZACJI ROLNICTWA</p> -->
                 </div>
                 <div class="col-xs-12 col-md-4 sponsorship">
-                    <img  src="src/assets/img/partnerzy/krus115.png" alt="Kasa Rolniczego Ubezpieczenia Społecznego">
+                    <!-- <img  src="src/assets/img/partnerzy/krus115.png" alt="Kasa Rolniczego Ubezpieczenia Społecznego"> -->
                     <!-- <h4>PARTNER</h4>
                     <p>KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO</p> -->
                 </div>
