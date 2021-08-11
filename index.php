@@ -111,47 +111,13 @@ Ilość miejsc ograniczona.
 
 
 <div class="patrons-index">
-    <div class="assosiates">
-        <div class="container" id="Partnerzy">
-
-            <div class="row">
-                <div class="aside-small-header">
-                    <h6 class="text-right">Partnerzy</h6>
-                    <hr>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-xs-12 col-md-4 sponsorship">
-                    <img  src="src/assets/img/partnerzy/kowr115.png " alt="KRAJOWY OŚRODEK WSPARCIA ROLNICTWA">
-                    <!-- <h4>PARTNER</h4>
-                    <p>KRAJOWY OŚRODEK WSPARCIA ROLNICTWA</p> -->
-                </div>
-                <div class="col-xs-12 col-md-4 sponsorship">
-                    <img  src="src/assets/img/partnerzy/armir115.png" alt="Agencja Restrukturyzacji i Modernizacji Rolnictwa">
-                    <!-- <h4>PARTNER</h4>
-                    <p>AGENCJA RESTRUKTURYZACJI I MODERNIZACJI ROLNICTWA</p> -->
-                </div>
-                <div class="col-xs-12 col-md-4 sponsorship">
-                    <!-- <img  src="src/assets/img/partnerzy/krus115.png" alt="Kasa Rolniczego Ubezpieczenia Społecznego"> -->
-                    <!-- <h4>PARTNER</h4>
-                    <p>KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO</p> -->
-                </div>
-
-
-            </div>
-
-        </div>
-    </div>
-
-
 
     <div class="assosiates">
         <div class="container" id="patronat">
             <!-- <h3></h3> -->
             <div class="row">
                 <div class="aside-small-header">
-                    <h6 class="text-right">Patronat</h6>
+                    <h6 class="text-right">Patronat Honorowy</h6>
                     <hr>
                 </div>
             </div>
@@ -168,26 +134,87 @@ Ilość miejsc ograniczona.
                     <h5>MARSZAŁEK SEJMU RZECZYPOSPOLITEJ POLSKIEJ</h5>
                     <p>Marek Kuchciński</p>
                 </div> -->
-                <!--<div class="col-xs-12 col-md-3 ">
-                    <img  src="src/assets/img/partner1x.png" alt="MINISTER ROLNICTWA I ROZWOJU WSI">
-                     <h5>MINISTER ROLNICTWA I ROZWOJU WSI</h5>
-                    <p>Jan Krzysztof Ardanowski</p>
-                </div> -->
                 <div class="col-xs-12 col-md-4 ">
-                    <img  src="src/assets/img/partnerzy/partner1x.png" alt="MINISTER ROLNICTWA I ROZWOJU WSI">
-                    <p class="partners-caption">Minister Rolnictwa <br>
-                        i Rozwoju Wsi</p>
+                    <img  src="src/assets/img/patronat/MRiRW.png" alt="MINISTER ROLNICTWA I ROZWOJU WSI">
+                     <!-- <h5>MINISTER ROLNICTWA I ROZWOJU WSI</h5> -->
+                    <p class="partners-caption">Patronat honorowy Ministra Rolnictwa i Rozwoju Wsi Grzegorza Pudy</p>
+                </div> 
+                <div class="col-xs-12 col-md-4 ">
+                    <img  src="src/assets/img/patronat/WRiPS.png" alt="ANNA SCHMIDT WICEMINISTER RODZINY I POLITYKI SPOŁECZNEJ POSEŁ NA SEJM RP">
+                    <p class="partners-caption">Anna Schmidt Wiceminister Rodziny i Polityki Społecznej Poseł Na Sejm RP</p>
                 </div>
                 <div class="col-xs-12 col-md-4 ">
-                    <img src="src/assets/img/partnerzy/partner2x.png" alt="MARSZAŁEK WOJEWÓDZTWA PODKARPACKIEGO">
-                    <p class="partners-caption">Marszałek Województwa <br>
-                        Podkarpackiego</p>
+                    <img src="src/assets/img/patronat/CHRZAN.png" alt="Tadeusz Chrzan Poseł na Sejm RP">
+                    <p class="partners-caption">Tadeusz Chrzan Poseł na Sejm RP</p>
                 </div>
 
 
             </div>
+
+            <div class="row">
+                <!-- <div class="col-xs-12 col-md-3 sponsorship">
+                    <img src="src/assets/img/sejm-logo.png" alt="partner0">
+                    <h5>MARSZAŁEK SEJMU RZECZYPOSPOLITEJ POLSKIEJ</h5>
+                    <p>Marek Kuchciński</p>
+                </div> -->
+                <div class="col-xs-12 col-md-4 ">
+                    <img  src="src/assets/img/patronat/PJ.png" alt="Starosta Powiatu Jarosławskiego Stanisław Kłopot">
+                     <!-- <h5>MINISTER ROLNICTWA I ROZWOJU WSI</h5> -->
+                    <p class="partners-caption">Starosta Powiatu Jarosławskiego Stanisław Kłopot</p>
+                </div> 
+                <div class="col-xs-12 col-md-4 ">
+                    <img  src="src/assets/img/patronat/GR.png" alt="Wójt Gminy Radymno Bogdan Szylar">
+                    <p class="partners-caption">Wójt Gminy Radymno Bogdan Szylar</p>
+                </div>
+                
+
+
+            </div>
+
         </div>
     </div>
+
+    <div class="assosiates">
+        <div class="container" id="Partnerzy">
+
+            <div class="row">
+                <div class="aside-small-header">
+                    <h6 class="text-right">Partnerzy</h6>
+                    <hr>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xs-12 col-md-3 sponsorship">
+                    <img  src="src/assets/img/partnerzy/kowr115.png " alt="KRAJOWY OŚRODEK WSPARCIA ROLNICTWA">
+                    <!-- <h4>PARTNER</h4>
+                    <p>KRAJOWY OŚRODEK WSPARCIA ROLNICTWA</p> -->
+                </div>
+                <div class="col-xs-12 col-md-3 sponsorship">
+                    <img  src="src/assets/img/partnerzy/armir115.png" alt="Agencja Restrukturyzacji i Modernizacji Rolnictwa">
+                    <!-- <h4>PARTNER</h4>
+                    <p>AGENCJA RESTRUKTURYZACJI I MODERNIZACJI ROLNICTWA</p> -->
+                </div>
+                <div class="col-xs-12 col-md-3 sponsorship">
+                    <img  src="src/assets/img/patronat/KIR.png" alt="Krajowa Rada Izb Rolniczych ">
+                    <!-- <h4>PARTNER</h4>
+                    <p>KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO</p> -->
+                </div>
+                <div class="col-xs-12 col-md-3 sponsorship">
+                    <img  src="src/assets/img/patronat/PIR.png" alt="Podkarpacka Izba Rolnicza">
+                    <!-- <h4>PARTNER</h4>
+                    <p>KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO</p> -->
+                </div>
+
+
+            </div>
+
+        </div>
+    </div>
+
+
+
+    
 
 
 
