@@ -1,5 +1,17 @@
 <?php require_once('header.php') ?>
 
+
+<div class="container gallery gallery-index" style="margin:auto; ">
+            
+            
+            <div class="row">
+                <div class="col-12 col-md-10 offset-md-1"><a href="./src/assets/img/plakat/Plakat2021.jpg"><img class="Thumbnail" src="./src/assets/img/plakat/Plakat2021.jpg" alt=""></a></div>  
+            </div>
+
+</div>
+ 
+
+
 <div class="dla_firm">Szanowni Państwo,<br><br>
         Szanowni Państwo,
 
