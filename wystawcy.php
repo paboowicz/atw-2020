@@ -46,11 +46,11 @@
 	        	   		<img src="./src/assets/img/sponsorzy/mini/armir300.png" alt="sponsors"/>
 	        	   	</a>
 	        	</li>
-	        	<li>
+	        	<!-- <li>
 	        		<a href="https://www.krus.gov.pl/">
 	        			<img src="./src/assets/img/sponsorzy/mini/krus300.png" alt="sponsors"/>
 					</a>
-	        	</li> 
+	        	</li>  -->
 	        	<li>
 	        	    <a href="https://www.targikielce.pl/">
 	        	    	<img src="./src/assets/img/sponsorzy/mini/targikielce250.png" alt="sponsors"/>
