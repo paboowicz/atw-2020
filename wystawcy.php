@@ -25,6 +25,7 @@
 	      <div class="col-md-12">
 	        <div class="sponsors-list">
 	          <ul>
+	          	<li><img src="./src/assets/img/sponsorzy/mini/procam250.png" alt="sponsors"/></li>
 	          	<li><img src="./src/assets/img/sponsorzy/mini/gamart250.png" alt="sponsors"/></li>
 				<li><img src="./src/assets/img/sponsorzy/mini/agropion250.jpg" alt="sponsors"/></li>
 				<li><img src="./src/assets/img/sponsorzy/mini/agrosulca250.png" alt="sponsors"/></li>
