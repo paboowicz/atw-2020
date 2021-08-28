@@ -1,18 +1,27 @@
-<?php require_once('header.php') ?>
+<?php require_once('header.php') ?><br>
 
 
-<div class="container gallery gallery-index" style="margin:auto; ">
+<div style="text-align: center;">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/i7KuGH8Orok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="text-align: center;">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/hAZelsCTREA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<!-- <div class="container gallery gallery-index" style="margin:auto; ">
             
             
             <div class="row">
                 <div class="col-12 col-md-10 offset-md-1"><a href="./src/assets/img/plakat/Plakat2021.png"><img class="Thumbnail" src="./src/assets/img/plakat/Plakat2021.png" alt=""></a></div>  
             </div>
 
-</div>
+</div> -->
  
 
 
-<div class="dla_firm">Szanowni Państwo,<br><br>
+<!-- <div class="dla_firm">Szanowni Państwo,<br><br>
         Szanowni Państwo,
 
 w związku z trudną sytuacją targową utrzymującą się już drugi rok, spowodowaną pandemią COVID 19, wychodząc naprzeciw Państwa oczekiwaniom obniżamy ceny wynajmu powierzchni wystawowej na Agro Targach Wschód o 50%. Jednocześnie informujemy, że w czasie Targów odbędą się Dożynki Powiatu Jarosławskiego i Gminy Radymno.<br><br>
@@ -28,7 +37,7 @@ Ilość miejsc ograniczona.
         <br><br><br>
     
 </div>
-
+ -->
 <?php require_once('slider.php') ?>
 
 
