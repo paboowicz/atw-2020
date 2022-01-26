@@ -1,6 +1,3 @@
-
-
-
 <?php 
 
 header("Location: https://www.agrotargiwschod.pl/");
