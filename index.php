@@ -1,13 +1,13 @@
 <?php require_once('header.php') ?><br>
 
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/i7KuGH8Orok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div style="text-align: center;">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/hAZelsCTREA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</div> -->
 
 
 <!-- <div class="container gallery gallery-index" style="margin:auto; ">
