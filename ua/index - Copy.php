@@ -1,9 +1,7 @@
-<?php 
+<?php require_once('header.php') ?>
 
-header("Location: https://www.agrotargiwschod.pl/");
 
-?>
-
+<?php require_once('slider.php') ?>
 
 
 <section class="container info-index">
