@@ -1,7 +1,11 @@
 
-<?php require_once('header.php') ?>
 
 
+<?php 
+
+header("Location: https://www.agrotargiwschod.pl/");
+
+?>
 
 
 <div class="forExhibitors-application application-index">
