@@ -1,8 +1,8 @@
+<?php 
 
-<?php require_once('header.php') ?>
+header("Location: https://www.agrotargiwschod.pl/");
 
-
-
+?>
 
 
 <div class="event-plan-index">
