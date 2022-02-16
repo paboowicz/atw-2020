@@ -10,34 +10,25 @@
 </div> -->
 
 
-<!-- <div class="container gallery gallery-index" style="margin:auto; ">
+<div class="container gallery gallery-index" style="margin:auto; ">
             
             
             <div class="row">
-                <div class="col-12 col-md-10 offset-md-1"><a href="./src/assets/img/plakat/Plakat2021.png"><img class="Thumbnail" src="./src/assets/img/plakat/Plakat2021.png" alt=""></a></div>  
+                <div class="col-12 col-md-10 offset-md-1"><a href="https://wschodnietargirolnicze.pl"><img class="Thumbnail" src="./src/assets/img/wtr/baner.png" alt=""></a></div>  
             </div>
 
-</div> -->
+</div>
  
 
 
-<!-- <div class="dla_firm">Szanowni Państwo,<br><br>
-        Szanowni Państwo,
+<div class="dla_firm">Szanowni Państwo,<br><br>
 
-w związku z trudną sytuacją targową utrzymującą się już drugi rok, spowodowaną pandemią COVID 19, wychodząc naprzeciw Państwa oczekiwaniom obniżamy ceny wynajmu powierzchni wystawowej na Agro Targach Wschód o 50%. Jednocześnie informujemy, że w czasie Targów odbędą się Dożynki Powiatu Jarosławskiego i Gminy Radymno.<br><br>
+Informujemy, że tegoroczna edycja Agro Targów Wschód odbędzie się pod nazwą Wschodnie Targi Rolnicze w dniach 28-29 maja 2022 r. w Skołoszowie. Organizatorami targów będzie firma Sawa-Expo i Targi Lublin S.A. Zapraszamy do odwiedzenia strony internetowej <a href="https://wschodnietargirolnicze.pl">www.wschodnietargirolnicze.pl</a><br><br>
     
 
- 
-
-Powierzchnia wystawowa do 36 m2- 800,00 zł brutto.<br><br>
-    
-
-Ilość miejsc ograniczona.
-             
-        <br><br><br>
     
 </div>
- -->
+
 <?php require_once('slider.php') ?>
 
 

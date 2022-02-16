@@ -79,7 +79,7 @@ var x = setInterval(function () {
     // document.getElementById("demo").innerHTML = days + "d " + hours + "h "
     //     + minutes + "m " + seconds + "s ";
     //document.getElementById('counter').innerHTML = days + ' dni ' + hours + ' godzin ' + minutes + 'minut';
-	document.getElementById('counter2').innerHTML = days + ' днів ' + hours + ' годин ' + minutes + 'хвилин';
+	//document.getElementById('counter2').innerHTML = days + ' днів ' + hours + ' годин ' + minutes + 'хвилин';
 
     // If the count down is finished, write some text
     if (distance < 0) {
