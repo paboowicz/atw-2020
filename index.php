@@ -23,7 +23,7 @@
 
 <div class="dla_firm">Szanowni Państwo,<br><br>
 
-Informujemy, że tegoroczna edycja Agro Targów Wschód odbędzie się pod nazwą Wschodnie Targi Rolnicze w dniach 28-29 maja 2022 r. w Skołoszowie. Organizatorami targów będzie firma Sawa-Expo i Targi Lublin S.A. Zapraszamy do odwiedzenia strony internetowej <a href="https://wschodnietargirolnicze.pl">www.wschodnietargirolnicze.pl</a><br><br>
+Mając na uwadze toczącą się w Ukrainie wojnę, jesteśmy zmuszeni do przełożenia Wschodnich Targów Rolniczych, które miały się odbyć w dniach 28-29 maja 2022. Więcej informacji na stronie: <a href="https://wschodnietargirolnicze.pl">www.wschodnietargirolnicze.pl</a><br><br>
     
 
     
