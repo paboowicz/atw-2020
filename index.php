@@ -10,7 +10,7 @@
 </div> -->
 
 
-<div class="container gallery gallery-index" style="margin:auto; ">
+<!-- <div class="container gallery gallery-index" style="margin:auto; ">
             
             
             <div class="row">
@@ -27,7 +27,7 @@ Mając na uwadze toczącą się w Ukrainie wojnę, jesteśmy zmuszeni do przeło
     
 
     
-</div>
+</div> -->
 
 <?php require_once('slider.php') ?>
 
