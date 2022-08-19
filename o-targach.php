@@ -6,10 +6,10 @@
 
 
     <div class="row mb-5">
-        <div class="col-lg-6 d-flex flex-column align-items-center">
+        <!-- <div class="col-lg-6 d-flex flex-column align-items-center">
             <img src="./src/assets/img/1.jpg" alt="img" class="img-fluid w-75">
             <small class="font-italic">Spotkanie przedstawiciela Agro Targów Wschód z prezydentem DLG. Hannover, listopad 2017</small>
-        </div>
+        </div> -->
         <div class="col-lg-6">
             <div class="item">
                 <h1 class="heading-1 p-3">Agro Targi Wschód </h1>
