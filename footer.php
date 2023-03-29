@@ -47,7 +47,7 @@
             </div>
         </div> -->
         <div class="row copyrights d-flex justify-content-center justify-content-lg-between">
-            <p>Copyright © 2021 | AGRO TARGI WSCHÓD, SAWA EXPO - Wszystkie prawa zastrzeżone</p>
+            <p>Copyright © 2023 | AGRO TARGI WSCHÓD, SAWA EXPO - Wszystkie prawa zastrzeżone</p>
             <p>Realizacja: SAWA EXPO</p>
         </div>
     </div>
