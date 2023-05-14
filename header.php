@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-    <title> 2022 V Agro Targi Wschód </title>
+    <title> 2023 Agro Targi Wschód </title>
     <!-- test rmpgit -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -91,7 +91,7 @@
 <!--                            <a href="#">Dla mediów</a>-->
 <!--                        </li>-->
                         <li>
-                            <a href="kontakt.php">Kontakt</a>
+                            <a href="kontakt.php"><strong>Kontakt</strong></a>
                         </li>
                     </ul>
                 </div>
@@ -131,6 +131,12 @@
                             </li>
                             <li>
                                 <a href="kontakt.php">DOJAZD</a>
+                            </li>
+                            <li>
+                                <a href="zgloszenia.php">ZGŁOSZENIA</a>
+                            </li>
+                            <li>
+                                <a href="regulamin.php">REGULAMIN</a>
                             </li>
                         </ul>
                     </li>

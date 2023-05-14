@@ -1,8 +1,5 @@
-<?php 
+<?php require_once('header.php') ?>
 
-header("Location: https://www.agrotargiwschod.pl/");
-
-?>
 
 
 <div class="forExhibitors-regulations rule-index">
@@ -16,7 +13,7 @@ header("Location: https://www.agrotargiwschod.pl/");
 
                 <ul>
                     <li class="dllink">
-                        <a target="_blank" href="./src/assets/pdf/2021/REGULAMIN-2021.pdf"><span> Regulamin targów
+                        <a target="_blank" href="./src/assets/pdf/2023/REGULAMIN-2023.pdf"><span> Regulamin targów
                                 <img src="./src/assets/img/pdficon.png"></span>
                         </a>
                     </li>
@@ -25,11 +22,11 @@ header("Location: https://www.agrotargiwschod.pl/");
                                 <img src="./src/assets/img/pdficon.png"></span>
                         </a>
                     </li> -->
-                    <li class="dllink">
+                    <!-- <li class="dllink">
                         <a target="_blank" href="./src/assets/pdf/2021/REGULAMIN-HANDEL-DROBNY-2021.pdf"><span>Regulamin dla handlu drobnego
                                 <img src="./src/assets/img/pdficon.png"></span>
                         </a>
-                    </li>
+                    </li> -->
                     <!-- <li class="dllink">
                             <a target="_blank" href="./src/assets/pdf/20190916/ZALACZNIK-NR-1.pdf"><h3>Załącznik nr 1
                             <img src="./src/assets/img/pdficon.png"></h3>

@@ -1,8 +1,4 @@
-<?php 
-
-header("Location: https://www.agrotargiwschod.pl/");
-
-?>
+<?php require_once('header.php') ?>
 
 
 <div class="forExhibitors-application application-index">
@@ -35,7 +31,7 @@ header("Location: https://www.agrotargiwschod.pl/");
                     <h5>Formularz dla wystawców:</h5><br> <ul>
 
                         <li class="dllink">
-                            <a target="_blank" href="./src/assets/pdf/2021/FORMULARZ-ZGLOSZENIOWY-2021.pdf">Formularz zgłoszeniowy IV Agro Targi Wschód
+                            <a target="_blank" href="./src/assets/pdf/2023/FORMULARZ-ZGLOSZENIOWY-2023.pdf">Formularz zgłoszeniowy Agro Targi Wschód
                                 <img src="./src/assets/img/pdficon.png">
                             </a>
                         </li>
@@ -53,34 +49,34 @@ header("Location: https://www.agrotargiwschod.pl/");
         </div>
     </div>
 
-    <div class="container">
+    <!-- <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-12 no-padding">
                 <div class="text-box">
                     <h5>Formularz dla handlu:</h5><br>
                     <p>Uczestników Targów prowadzących działalność handlową i inną nie wystawienniczą prosimy o wypełnienie i przesłanie niniejszej umowy:</p><br>
                     <ul>
-                        <!--  <li class="dllink">
+                         <li class="dllink">
                             <a target="_blank" href="./src/assets/pdf/20190105/Cennik-dla-handlu-drobnego-ATW-2019.pdf">Cennik dla handlu drobnego
                             <img src="./src/assets/img/pdficon.png">
                             </a>
-                        </li> -->
+                        </li>
                         <li class="dllink">
                             <a target="_blank" href="./src/assets/pdf/2021/UMOWA-HANDEL-DROBNY-2021.pdf">Umowa dla handlu drobnego
                                 <img src="./src/assets/img/pdficon.png">
                             </a>
                         </li>
-                        <!-- <li class="dllink">
+                        <li class="dllink">
                             <a target="_blank" href="./src/assets/pdf/20190911/FORMULARZ-ZGLOSZENIOWY-DLA-REKODZIELA-2020.pdf">Umowa dla rękodzieła
                             <img src="./src/assets/img/pdficon.png">
                             </a>
-                        </li> -->
+                        </li>
 
                     </ul>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <div class="container">
         <div class="row d-flex justify-content-center">
