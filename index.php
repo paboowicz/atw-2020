@@ -135,31 +135,31 @@ Mając na uwadze toczącą się w Ukrainie wojnę, jesteśmy zmuszeni do przeło
 
 <div class="patrons-index">
 
-    <div class="assosiates">
+    <!-- <div class="assosiates">
         <div class="container" id="patronat">
-            <!-- <h3></h3> -->
+            <h3></h3> 
             <div class="row">
                 <div class="aside-small-header">
                     <h6 class="text-right">Patronat Honorowy</h6>
                     <hr>
                 </div>
             </div>
-            <!-- <div class="row">
+             <div class="row">
                 <div class="col-xs-12 col-md-12  sponsorship">
                     <img src="src/assets/img/partner0.png" alt="partner0">
                     <h5><br></h5>
                     <p></p>
                 </div>
-            </div> -->
+            </div> 
             <div class="row">
-                <!-- <div class="col-xs-12 col-md-3 sponsorship">
+               <div class="col-xs-12 col-md-3 sponsorship">
                     <img src="src/assets/img/sejm-logo.png" alt="partner0">
                     <h5>MARSZAŁEK SEJMU RZECZYPOSPOLITEJ POLSKIEJ</h5>
                     <p>Marek Kuchciński</p>
-                </div> -->
+                </div>
                 <div class="col-xs-12 col-md-4 ">
                     <img  src="src/assets/img/patronat/MRiRW.png" alt="MINISTER ROLNICTWA I ROZWOJU WSI">
-                     <!-- <h5>MINISTER ROLNICTWA I ROZWOJU WSI</h5> -->
+                      <h5>MINISTER ROLNICTWA I ROZWOJU WSI</h5> 
                     <p class="partners-caption">Patronat honorowy Ministra Rolnictwa i Rozwoju Wsi Grzegorza Pudy</p>
                 </div> 
                 <div class="col-xs-12 col-md-4 ">
@@ -175,14 +175,14 @@ Mając na uwadze toczącą się w Ukrainie wojnę, jesteśmy zmuszeni do przeło
             </div>
 
             <div class="row">
-                <!-- <div class="col-xs-12 col-md-3 sponsorship">
+                <div class="col-xs-12 col-md-3 sponsorship">
                     <img src="src/assets/img/sejm-logo.png" alt="partner0">
                     <h5>MARSZAŁEK SEJMU RZECZYPOSPOLITEJ POLSKIEJ</h5>
                     <p>Marek Kuchciński</p>
-                </div> -->
+                </div>
                 <div class="col-xs-12 col-md-4 ">
                     <img  src="src/assets/img/patronat/PJ.png" alt="Starosta Powiatu Jarosławskiego Stanisław Kłopot">
-                     <!-- <h5>MINISTER ROLNICTWA I ROZWOJU WSI</h5> -->
+                     <h5>MINISTER ROLNICTWA I ROZWOJU WSI</h5> 
                     <p class="partners-caption">Starosta Powiatu Jarosławskiego Stanisław Kłopot</p>
                 </div> 
                 <div class="col-xs-12 col-md-4 ">
@@ -195,7 +195,7 @@ Mając na uwadze toczącą się w Ukrainie wojnę, jesteśmy zmuszeni do przeło
             </div>
 
         </div>
-    </div>
+    </div> -->
 
     <div class="assosiates">
         <div class="container" id="Partnerzy">
