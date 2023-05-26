@@ -31,7 +31,7 @@
                     <h5>Formularz dla wystawców:</h5><br> <ul>
 
                         <li class="dllink">
-                            <a target="_blank" href="./src/assets/pdf/2023/FORMULARZ-ZGLOSZENIOWY-2023-.pdf">Formularz zgłoszeniowy Agro Targi Wschód
+                            <a target="_blank" href="./src/assets/pdf/2023/FORMULARZ-ZGLOSZENIOWY-2023.pdf">Formularz zgłoszeniowy Agro Targi Wschód
                                 <img src="./src/assets/img/pdficon.png">
                             </a>
                         </li>
